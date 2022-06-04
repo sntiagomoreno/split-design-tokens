@@ -1,0 +1,7 @@
+node_modules
+.DS_Store
+dist/android
+dist/ios
+dist/ios-swift
+dist/compose
+src/transformed

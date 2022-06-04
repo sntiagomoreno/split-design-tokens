@@ -1,0 +1,21 @@
+{
+  "name": "split-design-tokens",
+  "version": "1.0.0",
+  "description": "Design Tokens for Split Design System",
+  "main": "index.js",
+  "repository": "git@github.com:sntiagomoreno/split-design-tokens.git",
+  "author": "Santiago Moreno",
+  "license": "MIT",
+  "dependencies": {
+    "style-dictionary": "^3.7.0",
+    "token-transformer": "^0.0.23"
+  },
+  "scripts": {
+    "build-core": "token-transformer src/tokens.json src/transformed/core.json core --throwErrorWhenNotResolved",
+    "build-tokens": "token-transformer src/tokens.json src/transformed/all.json",
+    "build-dark": "token-transformer src/tokens.json src/transformed/theme.dark.json core,theme.dark core --throwErrorWhenNotResolved",
+    "build-semantic": "token-transformer src/tokens.json src/transformed/semantic.json core,semantic core --throwErrorWhenNotResolved",
+    "build-component": "token-transformer src/tokens.json src/transformed/component.json core,theme.dark,component core,theme.dark --throwErrorWhenNotResolved",
+    "build": "yarn build-core && yarn build-dark && yarn build-semantic && yarn build-component && node ./build.js"
+  }
+}
