@@ -1,0 +1,356 @@
+{
+  "button": {
+    "cta": {
+      "primary": {
+        "background-color": {
+          "value": "#ff8876",
+          "type": "color",
+          "rawValue": "$color.surface.brand",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#ff8876",
+            "type": "color",
+            "rawValue": "$color.surface.brand"
+          },
+          "name": "splt-button-cta-primary-background-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "primary",
+            "subitem": "background-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "primary",
+            "background-color"
+          ]
+        },
+        "text-color": {
+          "value": "#461d17",
+          "type": "color",
+          "rawValue": "$color.text.on-brand",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#461d17",
+            "type": "color",
+            "rawValue": "$color.text.on-brand"
+          },
+          "name": "splt-button-cta-primary-text-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "primary",
+            "subitem": "text-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "primary",
+            "text-color"
+          ]
+        },
+        "icon-color": {
+          "value": "#461d17",
+          "type": "color",
+          "rawValue": "$color.icon.secondary",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#461d17",
+            "type": "color",
+            "rawValue": "$color.icon.secondary"
+          },
+          "name": "splt-button-cta-primary-icon-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "primary",
+            "subitem": "icon-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "primary",
+            "icon-color"
+          ]
+        },
+        "text-line-height": {
+          "value": 20,
+          "type": "lineHeights",
+          "rawValue": "$line-height.350",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": 20,
+            "type": "lineHeights",
+            "rawValue": "$line-height.350"
+          },
+          "name": "splt-button-cta-primary-text-line-height",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "primary",
+            "subitem": "text-line-height"
+          },
+          "path": [
+            "button",
+            "cta",
+            "primary",
+            "text-line-height"
+          ]
+        },
+        "font-size": {
+          "value": 16,
+          "type": "fontSizes",
+          "rawValue": "$font-size.300",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": 16,
+            "type": "fontSizes",
+            "rawValue": "$font-size.300"
+          },
+          "name": "splt-button-cta-primary-font-size",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "primary",
+            "subitem": "font-size"
+          },
+          "path": [
+            "button",
+            "cta",
+            "primary",
+            "font-size"
+          ]
+        }
+      },
+      "secondary": {
+        "background-color": {
+          "value": "#292929",
+          "type": "color",
+          "rawValue": "$color.surface.secondary",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#292929",
+            "type": "color",
+            "rawValue": "$color.surface.secondary"
+          },
+          "name": "splt-button-cta-secondary-background-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "secondary",
+            "subitem": "background-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "secondary",
+            "background-color"
+          ]
+        },
+        "text-color": {
+          "value": "#ff8876",
+          "type": "color",
+          "rawValue": "$color.text.strong",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#ff8876",
+            "type": "color",
+            "rawValue": "$color.text.strong"
+          },
+          "name": "splt-button-cta-secondary-text-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "secondary",
+            "subitem": "text-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "secondary",
+            "text-color"
+          ]
+        },
+        "icon-color": {
+          "value": "#ff8876",
+          "type": "color",
+          "rawValue": "$color.icon.brand",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#ff8876",
+            "type": "color",
+            "rawValue": "$color.icon.brand"
+          },
+          "name": "splt-button-cta-secondary-icon-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "secondary",
+            "subitem": "icon-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "secondary",
+            "icon-color"
+          ]
+        }
+      },
+      "tertiary": {
+        "background-color": {
+          "value": "#292929",
+          "type": "color",
+          "rawValue": "$color.surface.secondary",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#292929",
+            "type": "color",
+            "rawValue": "$color.surface.secondary"
+          },
+          "name": "splt-button-cta-tertiary-background-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "tertiary",
+            "subitem": "background-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "tertiary",
+            "background-color"
+          ]
+        },
+        "text-color": {
+          "value": "#b8b8b8",
+          "type": "color",
+          "rawValue": "$color.text.secondary",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#b8b8b8",
+            "type": "color",
+            "rawValue": "$color.text.secondary"
+          },
+          "name": "splt-button-cta-tertiary-text-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "tertiary",
+            "subitem": "text-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "tertiary",
+            "text-color"
+          ]
+        },
+        "icon-color": {
+          "value": "#b8b8b8",
+          "type": "color",
+          "rawValue": "$color.icon.tertiary",
+          "filePath": "src/transformed/component.json",
+          "isSource": true,
+          "original": {
+            "value": "#b8b8b8",
+            "type": "color",
+            "rawValue": "$color.icon.tertiary"
+          },
+          "name": "splt-button-cta-tertiary-icon-color",
+          "attributes": {
+            "category": "button",
+            "type": "cta",
+            "item": "tertiary",
+            "subitem": "icon-color"
+          },
+          "path": [
+            "button",
+            "cta",
+            "tertiary",
+            "icon-color"
+          ]
+        }
+      },
+      "padding-horizontal": {
+        "value": 20,
+        "type": "spacing",
+        "rawValue": "$spacing.250",
+        "filePath": "src/transformed/component.json",
+        "isSource": true,
+        "original": {
+          "value": 20,
+          "type": "spacing",
+          "rawValue": "$spacing.250"
+        },
+        "name": "splt-button-cta-padding-horizontal",
+        "attributes": {
+          "category": "button",
+          "type": "cta",
+          "item": "padding-horizontal"
+        },
+        "path": [
+          "button",
+          "cta",
+          "padding-horizontal"
+        ]
+      },
+      "padding-vertical": {
+        "value": 12,
+        "type": "spacing",
+        "rawValue": "$spacing.150",
+        "filePath": "src/transformed/component.json",
+        "isSource": true,
+        "original": {
+          "value": 12,
+          "type": "spacing",
+          "rawValue": "$spacing.150"
+        },
+        "name": "splt-button-cta-padding-vertical",
+        "attributes": {
+          "category": "button",
+          "type": "cta",
+          "item": "padding-vertical"
+        },
+        "path": [
+          "button",
+          "cta",
+          "padding-vertical"
+        ]
+      },
+      "gap": {
+        "value": 2,
+        "type": "spacing",
+        "rawValue": "$spacing.25",
+        "filePath": "src/transformed/component.json",
+        "isSource": true,
+        "original": {
+          "value": 2,
+          "type": "spacing",
+          "rawValue": "$spacing.25"
+        },
+        "name": "splt-button-cta-gap",
+        "attributes": {
+          "category": "button",
+          "type": "cta",
+          "item": "gap"
+        },
+        "path": [
+          "button",
+          "cta",
+          "gap"
+        ]
+      }
+    }
+  }
+}

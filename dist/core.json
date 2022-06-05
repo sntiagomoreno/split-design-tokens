@@ -1,0 +1,224 @@
+{
+  "color": {
+    "neutral": {
+      "100": "#1f1f1f",
+      "200": "#292929",
+      "300": "#3b3b3b",
+      "400": "#555555",
+      "500": "#727272",
+      "600": "#898989",
+      "700": "#9a9a9a",
+      "800": "#aaaaaa",
+      "900": "#b8b8b8",
+      "1000": "#c5c5c5",
+      "1100": "#d1d1d1",
+      "1200": "#dbdbdb"
+    },
+    "hibiscus": {
+      "100": "#361711",
+      "200": "#461d17",
+      "300": "#632920",
+      "400": "#8f3b2f",
+      "500": "#be4f40",
+      "600": "#df614f",
+      "700": "#f6715e",
+      "800": "#ff8876",
+      "900": "#ff9f8f",
+      "1000": "#ffb2a5",
+      "1100": "#ffc3b8",
+      "1200": "#fed2ca"
+    },
+    "red": {
+      "100": "#3f0d0c",
+      "200": "#521010",
+      "300": "#741716",
+      "400": "#a42220",
+      "500": "#d8302e",
+      "600": "#ed5352",
+      "700": "#f27473",
+      "800": "#f48d8c",
+      "900": "#f7a1a1",
+      "1000": "#f8b4b4",
+      "1100": "#fac4c3",
+      "1200": "#fbd2d2"
+    },
+    "orange": {
+      "100": "#2f1a0e",
+      "200": "#3e2312",
+      "300": "#59311a",
+      "400": "#804725",
+      "500": "#aa5f32",
+      "600": "#cb713b",
+      "700": "#e67f43",
+      "800": "#fd8c4a",
+      "900": "#fea26c",
+      "1000": "#feb58a",
+      "1100": "#fec5a3",
+      "1200": "#ffd3ba"
+    },
+    "yellow": {
+      "100": "#242008",
+      "200": "#2f290a",
+      "300": "#443b0e",
+      "400": "#635515",
+      "500": "#83721b",
+      "600": "#9d8721",
+      "700": "#b19a25",
+      "800": "#c3a929",
+      "900": "#d4b72c",
+      "1000": "#e2c42f",
+      "1100": "#f0cf32",
+      "1200": "#fcda35"
+    },
+    "green": {
+      "100": "#13240d",
+      "200": "#192f11",
+      "300": "#234318",
+      "400": "#326023",
+      "500": "#43802e",
+      "600": "#519938",
+      "700": "#5cad40",
+      "800": "#66be48",
+      "900": "#6fce4f",
+      "1000": "#78dc56",
+      "1100": "#81e95e",
+      "1200": "#8af465"
+    },
+    "basic": {
+      "white": "#ffffff",
+      "black": "#000000"
+    }
+  },
+  "font-family": {
+    "primary": "SF Pro Text"
+  },
+  "line-height": {
+    "100": 12,
+    "200": 14,
+    "300": 16,
+    "350": 20,
+    "400": 24,
+    "dynamic": "125%",
+    "auto": "AUTO"
+  },
+  "font-weight": {
+    "medium": "Medium",
+    "bold": "Bold"
+  },
+  "font-size": {
+    "100": 12,
+    "200": 14,
+    "300": 16,
+    "400": 24
+  },
+  "letterSpacing": {
+    "0": -0.41,
+    "1": "-4%",
+    "2": -0.41
+  },
+  "paragraphSpacing": {
+    "0": 0
+  },
+  "ExtraSmall": {
+    "Medium": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Medium",
+      "lineHeight": "125%",
+      "fontSize": 12,
+      "letterSpacing": -0.41,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "Bold": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Bold",
+      "lineHeight": "AUTO",
+      "fontSize": 12,
+      "letterSpacing": "-4%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    }
+  },
+  "Normal": {
+    "Bold": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Bold",
+      "lineHeight": 16,
+      "fontSize": 16,
+      "letterSpacing": -0.41,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    }
+  },
+  "Large": {
+    "Bold": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Bold",
+      "lineHeight": "AUTO",
+      "fontSize": 24,
+      "letterSpacing": "-4%",
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    }
+  },
+  "Small": {
+    "Bold": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Bold",
+      "lineHeight": 14,
+      "fontSize": 14,
+      "letterSpacing": -0.41,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    },
+    "Medium": {
+      "fontFamily": "SF Pro Text",
+      "fontWeight": "Medium",
+      "lineHeight": "AUTO",
+      "fontSize": 14,
+      "letterSpacing": -0.41,
+      "paragraphSpacing": 0,
+      "textCase": "none",
+      "textDecoration": "none"
+    }
+  },
+  "textCase": {
+    "none": "none"
+  },
+  "textDecoration": {
+    "none": "none"
+  },
+  "sizing": {
+    "0": 0,
+    "25": 2,
+    "50": 4,
+    "100": 8,
+    "150": 12,
+    "200": 16,
+    "250": 20,
+    "300": 24,
+    "400": 32,
+    "500": 40,
+    "600": 48,
+    "700": 56,
+    "800": 64,
+    "1000": 80
+  },
+  "spacing": {
+    "0": 0,
+    "25": 2,
+    "50": 4,
+    "100": 8,
+    "150": 12,
+    "200": 16,
+    "250": 20,
+    "300": 24,
+    "400": 32,
+    "500": 40
+  }
+}

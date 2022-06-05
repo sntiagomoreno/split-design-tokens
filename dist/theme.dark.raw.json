@@ -1,0 +1,444 @@
+{
+  "color": {
+    "brand": {
+      "primary": {
+        "value": "#ff8876",
+        "type": "color",
+        "description": "Brand color",
+        "rawValue": "$color.hibiscus.800",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff8876",
+          "type": "color",
+          "description": "Brand color",
+          "rawValue": "$color.hibiscus.800"
+        },
+        "name": "splt-color-brand-primary",
+        "attributes": {
+          "category": "color",
+          "type": "brand",
+          "item": "primary"
+        },
+        "path": [
+          "color",
+          "brand",
+          "primary"
+        ]
+      }
+    },
+    "surface": {
+      "primary": {
+        "value": "#1f1f1f",
+        "type": "color",
+        "description": "Default background color",
+        "rawValue": "$color.neutral.100",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#1f1f1f",
+          "type": "color",
+          "description": "Default background color",
+          "rawValue": "$color.neutral.100"
+        },
+        "name": "splt-color-surface-primary",
+        "attributes": {
+          "category": "color",
+          "type": "surface",
+          "item": "primary"
+        },
+        "path": [
+          "color",
+          "surface",
+          "primary"
+        ]
+      },
+      "secondary": {
+        "value": "#292929",
+        "type": "color",
+        "rawValue": "$color.neutral.200",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#292929",
+          "type": "color",
+          "rawValue": "$color.neutral.200"
+        },
+        "name": "splt-color-surface-secondary",
+        "attributes": {
+          "category": "color",
+          "type": "surface",
+          "item": "secondary"
+        },
+        "path": [
+          "color",
+          "surface",
+          "secondary"
+        ]
+      },
+      "tertiary": {
+        "value": "#3b3b3b",
+        "type": "color",
+        "rawValue": "$color.neutral.300",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "rawValue": "$color.neutral.300"
+        },
+        "name": "splt-color-surface-tertiary",
+        "attributes": {
+          "category": "color",
+          "type": "surface",
+          "item": "tertiary"
+        },
+        "path": [
+          "color",
+          "surface",
+          "tertiary"
+        ]
+      },
+      "brand": {
+        "value": "#ff8876",
+        "type": "color",
+        "rawValue": "$color.brand.primary",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff8876",
+          "type": "color",
+          "rawValue": "$color.brand.primary"
+        },
+        "name": "splt-color-surface-brand",
+        "attributes": {
+          "category": "color",
+          "type": "surface",
+          "item": "brand"
+        },
+        "path": [
+          "color",
+          "surface",
+          "brand"
+        ]
+      },
+      "negative": {
+        "default": {
+          "value": "#ed5352",
+          "type": "color",
+          "rawValue": "$color.red.600",
+          "filePath": "src/transformed/theme-dark.json",
+          "isSource": true,
+          "original": {
+            "value": "#ed5352",
+            "type": "color",
+            "rawValue": "$color.red.600"
+          },
+          "name": "splt-color-surface-negative-default",
+          "attributes": {
+            "category": "color",
+            "type": "surface",
+            "item": "negative",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "surface",
+            "negative",
+            "default"
+          ]
+        },
+        "weak": {
+          "value": "#3f0d0c",
+          "type": "color",
+          "rawValue": "$color.red.100",
+          "filePath": "src/transformed/theme-dark.json",
+          "isSource": true,
+          "original": {
+            "value": "#3f0d0c",
+            "type": "color",
+            "rawValue": "$color.red.100"
+          },
+          "name": "splt-color-surface-negative-weak",
+          "attributes": {
+            "category": "color",
+            "type": "surface",
+            "item": "negative",
+            "subitem": "weak"
+          },
+          "path": [
+            "color",
+            "surface",
+            "negative",
+            "weak"
+          ]
+        }
+      },
+      "positive": {
+        "default": {
+          "value": "#78dc56",
+          "type": "color",
+          "rawValue": "$color.green.1000",
+          "filePath": "src/transformed/theme-dark.json",
+          "isSource": true,
+          "original": {
+            "value": "#78dc56",
+            "type": "color",
+            "rawValue": "$color.green.1000"
+          },
+          "name": "splt-color-surface-positive-default",
+          "attributes": {
+            "category": "color",
+            "type": "surface",
+            "item": "positive",
+            "subitem": "default"
+          },
+          "path": [
+            "color",
+            "surface",
+            "positive",
+            "default"
+          ]
+        },
+        "weak": {
+          "value": "#234318",
+          "type": "color",
+          "rawValue": "$color.green.300",
+          "filePath": "src/transformed/theme-dark.json",
+          "isSource": true,
+          "original": {
+            "value": "#234318",
+            "type": "color",
+            "rawValue": "$color.green.300"
+          },
+          "name": "splt-color-surface-positive-weak",
+          "attributes": {
+            "category": "color",
+            "type": "surface",
+            "item": "positive",
+            "subitem": "weak"
+          },
+          "path": [
+            "color",
+            "surface",
+            "positive",
+            "weak"
+          ]
+        }
+      }
+    },
+    "text": {
+      "primary": {
+        "value": "#ffffff",
+        "type": "color",
+        "description": "Dominant text color",
+        "rawValue": "$color.basic.white",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color",
+          "description": "Dominant text color",
+          "rawValue": "$color.basic.white"
+        },
+        "name": "splt-color-text-primary",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "primary"
+        },
+        "path": [
+          "color",
+          "text",
+          "primary"
+        ]
+      },
+      "secondary": {
+        "value": "#b8b8b8",
+        "type": "color",
+        "rawValue": "$color.neutral.900",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#b8b8b8",
+          "type": "color",
+          "rawValue": "$color.neutral.900"
+        },
+        "name": "splt-color-text-secondary",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "secondary"
+        },
+        "path": [
+          "color",
+          "text",
+          "secondary"
+        ]
+      },
+      "link": {
+        "value": "#ff9f8f",
+        "type": "color",
+        "rawValue": "$color.hibiscus.900",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff9f8f",
+          "type": "color",
+          "rawValue": "$color.hibiscus.900"
+        },
+        "name": "splt-color-text-link",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "link"
+        },
+        "path": [
+          "color",
+          "text",
+          "link"
+        ]
+      },
+      "strong": {
+        "value": "#ff8876",
+        "type": "color",
+        "rawValue": "$color.surface.brand",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff8876",
+          "type": "color",
+          "rawValue": "$color.surface.brand"
+        },
+        "name": "splt-color-text-strong",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "strong"
+        },
+        "path": [
+          "color",
+          "text",
+          "strong"
+        ]
+      },
+      "on-brand": {
+        "value": "#461d17",
+        "type": "color",
+        "rawValue": "$color.hibiscus.200",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#461d17",
+          "type": "color",
+          "rawValue": "$color.hibiscus.200"
+        },
+        "name": "splt-color-text-on-brand",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "on-brand"
+        },
+        "path": [
+          "color",
+          "text",
+          "on-brand"
+        ]
+      }
+    },
+    "icon": {
+      "default": {
+        "value": "#ffffff",
+        "type": "color",
+        "rawValue": "$color.text.primary",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color",
+          "rawValue": "$color.text.primary"
+        },
+        "name": "splt-color-icon-default",
+        "attributes": {
+          "category": "color",
+          "type": "icon",
+          "item": "default"
+        },
+        "path": [
+          "color",
+          "icon",
+          "default"
+        ]
+      },
+      "brand": {
+        "value": "#ff8876",
+        "type": "color",
+        "rawValue": "$color.brand.primary",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff8876",
+          "type": "color",
+          "rawValue": "$color.brand.primary"
+        },
+        "name": "splt-color-icon-brand",
+        "attributes": {
+          "category": "color",
+          "type": "icon",
+          "item": "brand"
+        },
+        "path": [
+          "color",
+          "icon",
+          "brand"
+        ]
+      },
+      "secondary": {
+        "value": "#461d17",
+        "type": "color",
+        "rawValue": "$color.text.on-brand",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#461d17",
+          "type": "color",
+          "rawValue": "$color.text.on-brand"
+        },
+        "name": "splt-color-icon-secondary",
+        "attributes": {
+          "category": "color",
+          "type": "icon",
+          "item": "secondary"
+        },
+        "path": [
+          "color",
+          "icon",
+          "secondary"
+        ]
+      },
+      "tertiary": {
+        "value": "#b8b8b8",
+        "type": "color",
+        "rawValue": "$color.text.secondary",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#b8b8b8",
+          "type": "color",
+          "rawValue": "$color.text.secondary"
+        },
+        "name": "splt-color-icon-tertiary",
+        "attributes": {
+          "category": "color",
+          "type": "icon",
+          "item": "tertiary"
+        },
+        "path": [
+          "color",
+          "icon",
+          "tertiary"
+        ]
+      }
+    }
+  }
+}

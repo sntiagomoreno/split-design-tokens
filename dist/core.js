@@ -1,22 +1,8 @@
 /**
  * Do not edit directly
- * Generated on Sat, 04 Jun 2022 06:27:45 GMT
+ * Generated on Sun, 05 Jun 2022 05:05:03 GMT
  */
 
-export const buttonCtaPrimaryBackgroundColor = "#ff8876";
-export const buttonCtaPrimaryTextColor = "#461d17";
-export const buttonCtaPrimaryIconColor = "#461d17";
-export const buttonCtaPrimaryTextLineHeight = 20;
-export const buttonCtaPrimaryFontSize = 16;
-export const buttonCtaSecondaryBackgroundColor = "#292929";
-export const buttonCtaSecondaryTextColor = "#ff8876";
-export const buttonCtaSecondaryIconColor = "#ff8876";
-export const buttonCtaTertiaryBackgroundColor = "#292929";
-export const buttonCtaTertiaryTextColor = "#b8b8b8";
-export const buttonCtaTertiaryIconColor = "#b8b8b8";
-export const buttonCtaPaddingHorizontal = 20;
-export const buttonCtaPaddingVertical = 12;
-export const buttonCtaGap = 2;
 export const colorNeutral100 = "#1f1f1f";
 export const colorNeutral200 = "#292929";
 export const colorNeutral300 = "#3b3b3b";
@@ -91,24 +77,6 @@ export const colorGreen1100 = "#81e95e";
 export const colorGreen1200 = "#8af465";
 export const colorBasicWhite = "#ffffff";
 export const colorBasicBlack = "#000000";
-export const colorBrandPrimary = "#ff8876";
-export const colorSurfacePrimary = "#1f1f1f";
-export const colorSurfaceSecondary = "#292929";
-export const colorSurfaceTertiary = "#3b3b3b";
-export const colorSurfaceBrand = "#ff8876";
-export const colorSurfaceNegativeDefault = "#ed5352";
-export const colorSurfaceNegativeWeak = "#3f0d0c";
-export const colorSurfacePositiveDefault = "#78dc56";
-export const colorSurfacePositiveWeak = "#234318";
-export const colorTextPrimary = "#ffffff";
-export const colorTextSecondary = "#b8b8b8";
-export const colorTextLink = "#ff9f8f";
-export const colorTextStrong = "#ff8876";
-export const colorTextOnBrand = "#461d17";
-export const colorIconDefault = "#ffffff";
-export const colorIconBrand = "#ff8876";
-export const colorIconSecondary = "#461d17";
-export const colorIconTertiary = "#b8b8b8";
 export const fontFamilyPrimary = "SF Pro Text";
 export const lineHeight100 = 12;
 export const lineHeight200 = 14;

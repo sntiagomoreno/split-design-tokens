@@ -32,9 +32,3 @@ StyleDictionary.registerTransform({
     return `"${value}", sans-serif`;
   },
 });
-
-const StyleDictionaryExtended = StyleDictionary.extend(
-  __dirname + "/config.json"
-);
-
-StyleDictionaryExtended.buildAllPlatforms();

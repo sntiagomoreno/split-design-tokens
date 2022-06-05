@@ -1,0 +1,34 @@
+{
+  "color": {
+    "brand": {
+      "primary": "#ff8876"
+    },
+    "surface": {
+      "primary": "#1f1f1f",
+      "secondary": "#292929",
+      "tertiary": "#3b3b3b",
+      "brand": "#ff8876",
+      "negative": {
+        "default": "#ed5352",
+        "weak": "#3f0d0c"
+      },
+      "positive": {
+        "default": "#78dc56",
+        "weak": "#234318"
+      }
+    },
+    "text": {
+      "primary": "#ffffff",
+      "secondary": "#b8b8b8",
+      "link": "#ff9f8f",
+      "strong": "#ff8876",
+      "on-brand": "#461d17"
+    },
+    "icon": {
+      "default": "#ffffff",
+      "brand": "#ff8876",
+      "secondary": "#461d17",
+      "tertiary": "#b8b8b8"
+    }
+  }
+}

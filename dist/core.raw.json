@@ -1,0 +1,3158 @@
+{
+  "color": {
+    "neutral": {
+      "100": {
+        "value": "#1f1f1f",
+        "type": "color",
+        "description": "1:1",
+        "rawValue": "#1f1f1f",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#1f1f1f",
+          "type": "color",
+          "description": "1:1",
+          "rawValue": "#1f1f1f"
+        },
+        "name": "splt-color-neutral-100",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#292929",
+        "type": "color",
+        "description": "1.13:1",
+        "rawValue": "#292929",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#292929",
+          "type": "color",
+          "description": "1.13:1",
+          "rawValue": "#292929"
+        },
+        "name": "splt-color-neutral-200",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#3b3b3b",
+        "type": "color",
+        "description": "1.49:1",
+        "rawValue": "#3b3b3b",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#3b3b3b",
+          "type": "color",
+          "description": "1.49:1",
+          "rawValue": "#3b3b3b"
+        },
+        "name": "splt-color-neutral-300",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#555555",
+        "type": "color",
+        "description": "2.25:1",
+        "rawValue": "#555555",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#555555",
+          "type": "color",
+          "description": "2.25:1",
+          "rawValue": "#555555"
+        },
+        "name": "splt-color-neutral-400",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#727272",
+        "type": "color",
+        "description": "3.48:1",
+        "rawValue": "#727272",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#727272",
+          "type": "color",
+          "description": "3.48:1",
+          "rawValue": "#727272"
+        },
+        "name": "splt-color-neutral-500",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#898989",
+        "type": "color",
+        "description": "4.77:1",
+        "rawValue": "#898989",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#898989",
+          "type": "color",
+          "description": "4.77:1",
+          "rawValue": "#898989"
+        },
+        "name": "splt-color-neutral-600",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#9a9a9a",
+        "type": "color",
+        "description": "6:1",
+        "rawValue": "#9a9a9a",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#9a9a9a",
+          "type": "color",
+          "description": "6:1",
+          "rawValue": "#9a9a9a"
+        },
+        "name": "splt-color-neutral-700",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#aaaaaa",
+        "type": "color",
+        "description": "7.26:1",
+        "rawValue": "#aaaaaa",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#aaaaaa",
+          "type": "color",
+          "description": "7.26:1",
+          "rawValue": "#aaaaaa"
+        },
+        "name": "splt-color-neutral-800",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#b8b8b8",
+        "type": "color",
+        "description": "8.49:1",
+        "rawValue": "#b8b8b8",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#b8b8b8",
+          "type": "color",
+          "description": "8.49:1",
+          "rawValue": "#b8b8b8"
+        },
+        "name": "splt-color-neutral-900",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "900"
+        ]
+      },
+      "1000": {
+        "value": "#c5c5c5",
+        "type": "color",
+        "description": "9.75:1",
+        "rawValue": "#c5c5c5",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#c5c5c5",
+          "type": "color",
+          "description": "9.75:1",
+          "rawValue": "#c5c5c5"
+        },
+        "name": "splt-color-neutral-1000",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "1000"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "1000"
+        ]
+      },
+      "1100": {
+        "value": "#d1d1d1",
+        "type": "color",
+        "description": "11.01:1",
+        "rawValue": "#d1d1d1",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#d1d1d1",
+          "type": "color",
+          "description": "11.01:1",
+          "rawValue": "#d1d1d1"
+        },
+        "name": "splt-color-neutral-1100",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "1100"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "1100"
+        ]
+      },
+      "1200": {
+        "value": "#dbdbdb",
+        "type": "color",
+        "description": "12.25:1",
+        "rawValue": "#dbdbdb",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#dbdbdb",
+          "type": "color",
+          "description": "12.25:1",
+          "rawValue": "#dbdbdb"
+        },
+        "name": "splt-color-neutral-1200",
+        "attributes": {
+          "category": "color",
+          "type": "neutral",
+          "item": "1200"
+        },
+        "path": [
+          "color",
+          "neutral",
+          "1200"
+        ]
+      }
+    },
+    "hibiscus": {
+      "100": {
+        "value": "#361711",
+        "type": "color",
+        "description": "1.01:1",
+        "rawValue": "#361711",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#361711",
+          "type": "color",
+          "description": "1.01:1",
+          "rawValue": "#361711"
+        },
+        "name": "splt-color-hibiscus-100",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#461d17",
+        "type": "color",
+        "description": "1.14:1",
+        "rawValue": "#461d17",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#461d17",
+          "type": "color",
+          "description": "1.14:1",
+          "rawValue": "#461d17"
+        },
+        "name": "splt-color-hibiscus-200",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#632920",
+        "type": "color",
+        "description": "1.49:1",
+        "rawValue": "#632920",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#632920",
+          "type": "color",
+          "description": "1.49:1",
+          "rawValue": "#632920"
+        },
+        "name": "splt-color-hibiscus-300",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#8f3b2f",
+        "type": "color",
+        "description": "2.27:1",
+        "rawValue": "#8f3b2f",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#8f3b2f",
+          "type": "color",
+          "description": "2.27:1",
+          "rawValue": "#8f3b2f"
+        },
+        "name": "splt-color-hibiscus-400",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#be4f40",
+        "type": "color",
+        "description": "3.5:1",
+        "rawValue": "#be4f40",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#be4f40",
+          "type": "color",
+          "description": "3.5:1",
+          "rawValue": "#be4f40"
+        },
+        "name": "splt-color-hibiscus-500",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#df614f",
+        "type": "color",
+        "description": "4.79:1",
+        "rawValue": "#df614f",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#df614f",
+          "type": "color",
+          "description": "4.79:1",
+          "rawValue": "#df614f"
+        },
+        "name": "splt-color-hibiscus-600",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#f6715e",
+        "type": "color",
+        "description": "6.04:1",
+        "rawValue": "#f6715e",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#f6715e",
+          "type": "color",
+          "description": "6.04:1",
+          "rawValue": "#f6715e"
+        },
+        "name": "splt-color-hibiscus-700",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#ff8876",
+        "type": "color",
+        "description": "7.24:1",
+        "rawValue": "#ff8876",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff8876",
+          "type": "color",
+          "description": "7.24:1",
+          "rawValue": "#ff8876"
+        },
+        "name": "splt-color-hibiscus-800",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#ff9f8f",
+        "type": "color",
+        "description": "8.51:1",
+        "rawValue": "#ff9f8f",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ff9f8f",
+          "type": "color",
+          "description": "8.51:1",
+          "rawValue": "#ff9f8f"
+        },
+        "name": "splt-color-hibiscus-900",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "900"
+        ]
+      },
+      "1000": {
+        "value": "#ffb2a5",
+        "type": "color",
+        "description": "9.82:1",
+        "rawValue": "#ffb2a5",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffb2a5",
+          "type": "color",
+          "description": "9.82:1",
+          "rawValue": "#ffb2a5"
+        },
+        "name": "splt-color-hibiscus-1000",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "1000"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "1000"
+        ]
+      },
+      "1100": {
+        "value": "#ffc3b8",
+        "type": "color",
+        "description": "11.03:1",
+        "rawValue": "#ffc3b8",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffc3b8",
+          "type": "color",
+          "description": "11.03:1",
+          "rawValue": "#ffc3b8"
+        },
+        "name": "splt-color-hibiscus-1100",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "1100"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "1100"
+        ]
+      },
+      "1200": {
+        "value": "#fed2ca",
+        "type": "color",
+        "description": "12.34:1",
+        "rawValue": "#fed2ca",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#fed2ca",
+          "type": "color",
+          "description": "12.34:1",
+          "rawValue": "#fed2ca"
+        },
+        "name": "splt-color-hibiscus-1200",
+        "attributes": {
+          "category": "color",
+          "type": "hibiscus",
+          "item": "1200"
+        },
+        "path": [
+          "color",
+          "hibiscus",
+          "1200"
+        ]
+      }
+    },
+    "red": {
+      "100": {
+        "value": "#3f0d0c",
+        "type": "color",
+        "description": "1.01:1",
+        "rawValue": "#3f0d0c",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#3f0d0c",
+          "type": "color",
+          "description": "1.01:1",
+          "rawValue": "#3f0d0c"
+        },
+        "name": "splt-color-red-100",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "red",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#521010",
+        "type": "color",
+        "description": "1.13:1",
+        "rawValue": "#521010",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#521010",
+          "type": "color",
+          "description": "1.13:1",
+          "rawValue": "#521010"
+        },
+        "name": "splt-color-red-200",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "red",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#741716",
+        "type": "color",
+        "description": "1.48:1",
+        "rawValue": "#741716",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#741716",
+          "type": "color",
+          "description": "1.48:1",
+          "rawValue": "#741716"
+        },
+        "name": "splt-color-red-300",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "red",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#a42220",
+        "type": "color",
+        "description": "2.27:1",
+        "rawValue": "#a42220",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#a42220",
+          "type": "color",
+          "description": "2.27:1",
+          "rawValue": "#a42220"
+        },
+        "name": "splt-color-red-400",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "red",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#d8302e",
+        "type": "color",
+        "description": "3.5:1",
+        "rawValue": "#d8302e",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#d8302e",
+          "type": "color",
+          "description": "3.5:1",
+          "rawValue": "#d8302e"
+        },
+        "name": "splt-color-red-500",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "red",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#ed5352",
+        "type": "color",
+        "description": "4.79:1",
+        "rawValue": "#ed5352",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ed5352",
+          "type": "color",
+          "description": "4.79:1",
+          "rawValue": "#ed5352"
+        },
+        "name": "splt-color-red-600",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "red",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#f27473",
+        "type": "color",
+        "description": "6.03:1",
+        "rawValue": "#f27473",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#f27473",
+          "type": "color",
+          "description": "6.03:1",
+          "rawValue": "#f27473"
+        },
+        "name": "splt-color-red-700",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "red",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#f48d8c",
+        "type": "color",
+        "description": "7.28:1",
+        "rawValue": "#f48d8c",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#f48d8c",
+          "type": "color",
+          "description": "7.28:1",
+          "rawValue": "#f48d8c"
+        },
+        "name": "splt-color-red-800",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "red",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#f7a1a1",
+        "type": "color",
+        "description": "8.54:1",
+        "rawValue": "#f7a1a1",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#f7a1a1",
+          "type": "color",
+          "description": "8.54:1",
+          "rawValue": "#f7a1a1"
+        },
+        "name": "splt-color-red-900",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "red",
+          "900"
+        ]
+      },
+      "1000": {
+        "value": "#f8b4b4",
+        "type": "color",
+        "description": "9.8:1",
+        "rawValue": "#f8b4b4",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#f8b4b4",
+          "type": "color",
+          "description": "9.8:1",
+          "rawValue": "#f8b4b4"
+        },
+        "name": "splt-color-red-1000",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "1000"
+        },
+        "path": [
+          "color",
+          "red",
+          "1000"
+        ]
+      },
+      "1100": {
+        "value": "#fac4c3",
+        "type": "color",
+        "description": "11.03:1",
+        "rawValue": "#fac4c3",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#fac4c3",
+          "type": "color",
+          "description": "11.03:1",
+          "rawValue": "#fac4c3"
+        },
+        "name": "splt-color-red-1100",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "1100"
+        },
+        "path": [
+          "color",
+          "red",
+          "1100"
+        ]
+      },
+      "1200": {
+        "value": "#fbd2d2",
+        "type": "color",
+        "description": "12.32:1",
+        "rawValue": "#fbd2d2",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#fbd2d2",
+          "type": "color",
+          "description": "12.32:1",
+          "rawValue": "#fbd2d2"
+        },
+        "name": "splt-color-red-1200",
+        "attributes": {
+          "category": "color",
+          "type": "red",
+          "item": "1200"
+        },
+        "path": [
+          "color",
+          "red",
+          "1200"
+        ]
+      }
+    },
+    "orange": {
+      "100": {
+        "value": "#2f1a0e",
+        "type": "color",
+        "description": "1:01",
+        "rawValue": "#2f1a0e",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#2f1a0e",
+          "type": "color",
+          "description": "1:01",
+          "rawValue": "#2f1a0e"
+        },
+        "name": "splt-color-orange-100",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "orange",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#3e2312",
+        "type": "color",
+        "description": "1.14:1",
+        "rawValue": "#3e2312",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#3e2312",
+          "type": "color",
+          "description": "1.14:1",
+          "rawValue": "#3e2312"
+        },
+        "name": "splt-color-orange-200",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "orange",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#59311a",
+        "type": "color",
+        "description": "1.49:1",
+        "rawValue": "#59311a",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#59311a",
+          "type": "color",
+          "description": "1.49:1",
+          "rawValue": "#59311a"
+        },
+        "name": "splt-color-orange-300",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "orange",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#804725",
+        "type": "color",
+        "description": "1.27:1",
+        "rawValue": "#804725",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#804725",
+          "type": "color",
+          "description": "1.27:1",
+          "rawValue": "#804725"
+        },
+        "name": "splt-color-orange-400",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "orange",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#aa5f32",
+        "type": "color",
+        "description": "3.51:1",
+        "rawValue": "#aa5f32",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#aa5f32",
+          "type": "color",
+          "description": "3.51:1",
+          "rawValue": "#aa5f32"
+        },
+        "name": "splt-color-orange-500",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "orange",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#cb713b",
+        "type": "color",
+        "description": "4.79:1",
+        "rawValue": "#cb713b",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#cb713b",
+          "type": "color",
+          "description": "4.79:1",
+          "rawValue": "#cb713b"
+        },
+        "name": "splt-color-orange-600",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "orange",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#e67f43",
+        "type": "color",
+        "description": "6.03:1",
+        "rawValue": "#e67f43",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#e67f43",
+          "type": "color",
+          "description": "6.03:1",
+          "rawValue": "#e67f43"
+        },
+        "name": "splt-color-orange-700",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "orange",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#fd8c4a",
+        "type": "color",
+        "description": "7.31:1",
+        "rawValue": "#fd8c4a",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#fd8c4a",
+          "type": "color",
+          "description": "7.31:1",
+          "rawValue": "#fd8c4a"
+        },
+        "name": "splt-color-orange-800",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "orange",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#fea26c",
+        "type": "color",
+        "description": "8.56:1",
+        "rawValue": "#fea26c",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#fea26c",
+          "type": "color",
+          "description": "8.56:1",
+          "rawValue": "#fea26c"
+        },
+        "name": "splt-color-orange-900",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "orange",
+          "900"
+        ]
+      },
+      "1000": {
+        "value": "#feb58a",
+        "type": "color",
+        "description": "9.79:1",
+        "rawValue": "#feb58a",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#feb58a",
+          "type": "color",
+          "description": "9.79:1",
+          "rawValue": "#feb58a"
+        },
+        "name": "splt-color-orange-1000",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "1000"
+        },
+        "path": [
+          "color",
+          "orange",
+          "1000"
+        ]
+      },
+      "1100": {
+        "value": "#fec5a3",
+        "type": "color",
+        "description": "11.13:1",
+        "rawValue": "#fec5a3",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#fec5a3",
+          "type": "color",
+          "description": "11.13:1",
+          "rawValue": "#fec5a3"
+        },
+        "name": "splt-color-orange-1100",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "1100"
+        },
+        "path": [
+          "color",
+          "orange",
+          "1100"
+        ]
+      },
+      "1200": {
+        "value": "#ffd3ba",
+        "type": "color",
+        "description": "12.34:1",
+        "rawValue": "#ffd3ba",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffd3ba",
+          "type": "color",
+          "description": "12.34:1",
+          "rawValue": "#ffd3ba"
+        },
+        "name": "splt-color-orange-1200",
+        "attributes": {
+          "category": "color",
+          "type": "orange",
+          "item": "1200"
+        },
+        "path": [
+          "color",
+          "orange",
+          "1200"
+        ]
+      }
+    },
+    "yellow": {
+      "100": {
+        "value": "#242008",
+        "type": "color",
+        "description": "1.01:1",
+        "rawValue": "#242008",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#242008",
+          "type": "color",
+          "description": "1.01:1",
+          "rawValue": "#242008"
+        },
+        "name": "splt-color-yellow-100",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#2f290a",
+        "type": "color",
+        "description": "1.13:1",
+        "rawValue": "#2f290a",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#2f290a",
+          "type": "color",
+          "description": "1.13:1",
+          "rawValue": "#2f290a"
+        },
+        "name": "splt-color-yellow-200",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#443b0e",
+        "type": "color",
+        "description": "1.48:1",
+        "rawValue": "#443b0e",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#443b0e",
+          "type": "color",
+          "description": "1.48:1",
+          "rawValue": "#443b0e"
+        },
+        "name": "splt-color-yellow-300",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#635515",
+        "type": "color",
+        "description": "2.26:1",
+        "rawValue": "#635515",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#635515",
+          "type": "color",
+          "description": "2.26:1",
+          "rawValue": "#635515"
+        },
+        "name": "splt-color-yellow-400",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#83721b",
+        "type": "color",
+        "description": "3.51:1",
+        "rawValue": "#83721b",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#83721b",
+          "type": "color",
+          "description": "3.51:1",
+          "rawValue": "#83721b"
+        },
+        "name": "splt-color-yellow-500",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#9d8721",
+        "type": "color",
+        "description": "4.81:1",
+        "rawValue": "#9d8721",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#9d8721",
+          "type": "color",
+          "description": "4.81:1",
+          "rawValue": "#9d8721"
+        },
+        "name": "splt-color-yellow-600",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#b19a25",
+        "type": "color",
+        "description": "6.01:1",
+        "rawValue": "#b19a25",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#b19a25",
+          "type": "color",
+          "description": "6.01:1",
+          "rawValue": "#b19a25"
+        },
+        "name": "splt-color-yellow-700",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#c3a929",
+        "type": "color",
+        "description": "7.27:1",
+        "rawValue": "#c3a929",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#c3a929",
+          "type": "color",
+          "description": "7.27:1",
+          "rawValue": "#c3a929"
+        },
+        "name": "splt-color-yellow-800",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#d4b72c",
+        "type": "color",
+        "description": "8.51:1",
+        "rawValue": "#d4b72c",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#d4b72c",
+          "type": "color",
+          "description": "8.51:1",
+          "rawValue": "#d4b72c"
+        },
+        "name": "splt-color-yellow-900",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "900"
+        ]
+      },
+      "1000": {
+        "value": "#e2c42f",
+        "type": "color",
+        "description": "9.77:1",
+        "rawValue": "#e2c42f",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#e2c42f",
+          "type": "color",
+          "description": "9.77:1",
+          "rawValue": "#e2c42f"
+        },
+        "name": "splt-color-yellow-1000",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "1000"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "1000"
+        ]
+      },
+      "1100": {
+        "value": "#f0cf32",
+        "type": "color",
+        "description": "11.05:1",
+        "rawValue": "#f0cf32",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#f0cf32",
+          "type": "color",
+          "description": "11.05:1",
+          "rawValue": "#f0cf32"
+        },
+        "name": "splt-color-yellow-1100",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "1100"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "1100"
+        ]
+      },
+      "1200": {
+        "value": "#fcda35",
+        "type": "color",
+        "description": "12.33:1",
+        "rawValue": "#fcda35",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#fcda35",
+          "type": "color",
+          "description": "12.33:1",
+          "rawValue": "#fcda35"
+        },
+        "name": "splt-color-yellow-1200",
+        "attributes": {
+          "category": "color",
+          "type": "yellow",
+          "item": "1200"
+        },
+        "path": [
+          "color",
+          "yellow",
+          "1200"
+        ]
+      }
+    },
+    "green": {
+      "100": {
+        "value": "#13240d",
+        "type": "color",
+        "description": "1.01:1",
+        "rawValue": "#13240d",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#13240d",
+          "type": "color",
+          "description": "1.01:1",
+          "rawValue": "#13240d"
+        },
+        "name": "splt-color-green-100",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "100"
+        },
+        "path": [
+          "color",
+          "green",
+          "100"
+        ]
+      },
+      "200": {
+        "value": "#192f11",
+        "type": "color",
+        "description": "1.14:1",
+        "rawValue": "#192f11",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#192f11",
+          "type": "color",
+          "description": "1.14:1",
+          "rawValue": "#192f11"
+        },
+        "name": "splt-color-green-200",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "200"
+        },
+        "path": [
+          "color",
+          "green",
+          "200"
+        ]
+      },
+      "300": {
+        "value": "#234318",
+        "type": "color",
+        "description": "1.48:1",
+        "rawValue": "#234318",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#234318",
+          "type": "color",
+          "description": "1.48:1",
+          "rawValue": "#234318"
+        },
+        "name": "splt-color-green-300",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "300"
+        },
+        "path": [
+          "color",
+          "green",
+          "300"
+        ]
+      },
+      "400": {
+        "value": "#326023",
+        "type": "color",
+        "description": "2.26:1",
+        "rawValue": "#326023",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#326023",
+          "type": "color",
+          "description": "2.26:1",
+          "rawValue": "#326023"
+        },
+        "name": "splt-color-green-400",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "400"
+        },
+        "path": [
+          "color",
+          "green",
+          "400"
+        ]
+      },
+      "500": {
+        "value": "#43802e",
+        "type": "color",
+        "description": "3.52:1",
+        "rawValue": "#43802e",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#43802e",
+          "type": "color",
+          "description": "3.52:1",
+          "rawValue": "#43802e"
+        },
+        "name": "splt-color-green-500",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "500"
+        },
+        "path": [
+          "color",
+          "green",
+          "500"
+        ]
+      },
+      "600": {
+        "value": "#519938",
+        "type": "color",
+        "description": "4.79:1",
+        "rawValue": "#519938",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#519938",
+          "type": "color",
+          "description": "4.79:1",
+          "rawValue": "#519938"
+        },
+        "name": "splt-color-green-600",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "600"
+        },
+        "path": [
+          "color",
+          "green",
+          "600"
+        ]
+      },
+      "700": {
+        "value": "#5cad40",
+        "type": "color",
+        "description": "6.02:1",
+        "rawValue": "#5cad40",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#5cad40",
+          "type": "color",
+          "description": "6.02:1",
+          "rawValue": "#5cad40"
+        },
+        "name": "splt-color-green-700",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "700"
+        },
+        "path": [
+          "color",
+          "green",
+          "700"
+        ]
+      },
+      "800": {
+        "value": "#66be48",
+        "type": "color",
+        "description": "7.23:1",
+        "rawValue": "#66be48",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#66be48",
+          "type": "color",
+          "description": "7.23:1",
+          "rawValue": "#66be48"
+        },
+        "name": "splt-color-green-800",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "800"
+        },
+        "path": [
+          "color",
+          "green",
+          "800"
+        ]
+      },
+      "900": {
+        "value": "#6fce4f",
+        "type": "color",
+        "description": "8.51:1",
+        "rawValue": "#6fce4f",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#6fce4f",
+          "type": "color",
+          "description": "8.51:1",
+          "rawValue": "#6fce4f"
+        },
+        "name": "splt-color-green-900",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "900"
+        },
+        "path": [
+          "color",
+          "green",
+          "900"
+        ]
+      },
+      "1000": {
+        "value": "#78dc56",
+        "type": "color",
+        "description": "9.83:1",
+        "rawValue": "#78dc56",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#78dc56",
+          "type": "color",
+          "description": "9.83:1",
+          "rawValue": "#78dc56"
+        },
+        "name": "splt-color-green-1000",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "1000"
+        },
+        "path": [
+          "color",
+          "green",
+          "1000"
+        ]
+      },
+      "1100": {
+        "value": "#81e95e",
+        "type": "color",
+        "description": "11:1",
+        "rawValue": "#81e95e",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#81e95e",
+          "type": "color",
+          "description": "11:1",
+          "rawValue": "#81e95e"
+        },
+        "name": "splt-color-green-1100",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "1100"
+        },
+        "path": [
+          "color",
+          "green",
+          "1100"
+        ]
+      },
+      "1200": {
+        "value": "#8af465",
+        "type": "color",
+        "description": "12.26:1",
+        "rawValue": "#8af465",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#8af465",
+          "type": "color",
+          "description": "12.26:1",
+          "rawValue": "#8af465"
+        },
+        "name": "splt-color-green-1200",
+        "attributes": {
+          "category": "color",
+          "type": "green",
+          "item": "1200"
+        },
+        "path": [
+          "color",
+          "green",
+          "1200"
+        ]
+      }
+    },
+    "basic": {
+      "white": {
+        "value": "#ffffff",
+        "type": "color",
+        "rawValue": "#ffffff",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color",
+          "rawValue": "#ffffff"
+        },
+        "name": "splt-color-basic-white",
+        "attributes": {
+          "category": "color",
+          "type": "basic",
+          "item": "white"
+        },
+        "path": [
+          "color",
+          "basic",
+          "white"
+        ]
+      },
+      "black": {
+        "value": "#000000",
+        "type": "color",
+        "rawValue": "#000000",
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": "#000000",
+          "type": "color",
+          "rawValue": "#000000"
+        },
+        "name": "splt-color-basic-black",
+        "attributes": {
+          "category": "color",
+          "type": "basic",
+          "item": "black"
+        },
+        "path": [
+          "color",
+          "basic",
+          "black"
+        ]
+      }
+    }
+  },
+  "font-family": {
+    "primary": {
+      "value": "SF Pro Text",
+      "type": "fontFamilies",
+      "rawValue": "SF Pro Text",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "SF Pro Text",
+        "type": "fontFamilies",
+        "rawValue": "SF Pro Text"
+      },
+      "name": "splt-font-family-primary",
+      "attributes": {
+        "category": "font-family",
+        "type": "primary"
+      },
+      "path": [
+        "font-family",
+        "primary"
+      ]
+    }
+  },
+  "line-height": {
+    "100": {
+      "value": 12,
+      "type": "lineHeights",
+      "rawValue": "$font-size.100",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 12,
+        "type": "lineHeights",
+        "rawValue": "$font-size.100"
+      },
+      "name": "splt-line-height-100",
+      "attributes": {
+        "category": "line-height",
+        "type": "100"
+      },
+      "path": [
+        "line-height",
+        "100"
+      ]
+    },
+    "200": {
+      "value": 14,
+      "type": "lineHeights",
+      "rawValue": "$font-size.200",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 14,
+        "type": "lineHeights",
+        "rawValue": "$font-size.200"
+      },
+      "name": "splt-line-height-200",
+      "attributes": {
+        "category": "line-height",
+        "type": "200"
+      },
+      "path": [
+        "line-height",
+        "200"
+      ]
+    },
+    "300": {
+      "value": 16,
+      "type": "lineHeights",
+      "rawValue": "$font-size.300",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "lineHeights",
+        "rawValue": "$font-size.300"
+      },
+      "name": "splt-line-height-300",
+      "attributes": {
+        "category": "line-height",
+        "type": "300"
+      },
+      "path": [
+        "line-height",
+        "300"
+      ]
+    },
+    "350": {
+      "value": 20,
+      "type": "lineHeights",
+      "rawValue": "20",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 20,
+        "type": "lineHeights",
+        "rawValue": "20"
+      },
+      "name": "splt-line-height-350",
+      "attributes": {
+        "category": "line-height",
+        "type": "350"
+      },
+      "path": [
+        "line-height",
+        "350"
+      ]
+    },
+    "400": {
+      "value": 24,
+      "type": "lineHeights",
+      "rawValue": "$font-size.400",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 24,
+        "type": "lineHeights",
+        "rawValue": "$font-size.400"
+      },
+      "name": "splt-line-height-400",
+      "attributes": {
+        "category": "line-height",
+        "type": "400"
+      },
+      "path": [
+        "line-height",
+        "400"
+      ]
+    },
+    "dynamic": {
+      "value": "125%",
+      "type": "lineHeights",
+      "rawValue": "125%",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "125%",
+        "type": "lineHeights",
+        "rawValue": "125%"
+      },
+      "name": "splt-line-height-dynamic",
+      "attributes": {
+        "category": "line-height",
+        "type": "dynamic"
+      },
+      "path": [
+        "line-height",
+        "dynamic"
+      ]
+    },
+    "auto": {
+      "value": "AUTO",
+      "type": "lineHeights",
+      "rawValue": "AUTO",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "AUTO",
+        "type": "lineHeights",
+        "rawValue": "AUTO"
+      },
+      "name": "splt-line-height-auto",
+      "attributes": {
+        "category": "line-height",
+        "type": "auto"
+      },
+      "path": [
+        "line-height",
+        "auto"
+      ]
+    }
+  },
+  "font-weight": {
+    "medium": {
+      "value": "Medium",
+      "type": "fontWeights",
+      "rawValue": "Medium",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "Medium",
+        "type": "fontWeights",
+        "rawValue": "Medium"
+      },
+      "name": "splt-font-weight-medium",
+      "attributes": {
+        "category": "font-weight",
+        "type": "medium"
+      },
+      "path": [
+        "font-weight",
+        "medium"
+      ]
+    },
+    "bold": {
+      "value": "Bold",
+      "type": "fontWeights",
+      "rawValue": "Bold",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "Bold",
+        "type": "fontWeights",
+        "rawValue": "Bold"
+      },
+      "name": "splt-font-weight-bold",
+      "attributes": {
+        "category": "font-weight",
+        "type": "bold"
+      },
+      "path": [
+        "font-weight",
+        "bold"
+      ]
+    }
+  },
+  "font-size": {
+    "100": {
+      "value": 12,
+      "type": "fontSizes",
+      "rawValue": "12",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 12,
+        "type": "fontSizes",
+        "rawValue": "12"
+      },
+      "name": "splt-font-size-100",
+      "attributes": {
+        "category": "font-size",
+        "type": "100"
+      },
+      "path": [
+        "font-size",
+        "100"
+      ]
+    },
+    "200": {
+      "value": 14,
+      "type": "fontSizes",
+      "rawValue": "14",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 14,
+        "type": "fontSizes",
+        "rawValue": "14"
+      },
+      "name": "splt-font-size-200",
+      "attributes": {
+        "category": "font-size",
+        "type": "200"
+      },
+      "path": [
+        "font-size",
+        "200"
+      ]
+    },
+    "300": {
+      "value": 16,
+      "type": "fontSizes",
+      "rawValue": "16",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "fontSizes",
+        "rawValue": "16"
+      },
+      "name": "splt-font-size-300",
+      "attributes": {
+        "category": "font-size",
+        "type": "300"
+      },
+      "path": [
+        "font-size",
+        "300"
+      ]
+    },
+    "400": {
+      "value": 24,
+      "type": "fontSizes",
+      "rawValue": "24",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 24,
+        "type": "fontSizes",
+        "rawValue": "24"
+      },
+      "name": "splt-font-size-400",
+      "attributes": {
+        "category": "font-size",
+        "type": "400"
+      },
+      "path": [
+        "font-size",
+        "400"
+      ]
+    }
+  },
+  "letterSpacing": {
+    "0": {
+      "value": -0.41,
+      "type": "letterSpacing",
+      "rawValue": "-0.41",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": -0.41,
+        "type": "letterSpacing",
+        "rawValue": "-0.41"
+      },
+      "name": "splt-letter-spacing-0",
+      "attributes": {
+        "category": "letterSpacing",
+        "type": "0"
+      },
+      "path": [
+        "letterSpacing",
+        "0"
+      ]
+    },
+    "1": {
+      "value": "-4%",
+      "type": "letterSpacing",
+      "rawValue": "-4%",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "-4%",
+        "type": "letterSpacing",
+        "rawValue": "-4%"
+      },
+      "name": "splt-letter-spacing-1",
+      "attributes": {
+        "category": "letterSpacing",
+        "type": "1"
+      },
+      "path": [
+        "letterSpacing",
+        "1"
+      ]
+    },
+    "2": {
+      "value": -0.41,
+      "type": "letterSpacing",
+      "rawValue": "-0.41",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": -0.41,
+        "type": "letterSpacing",
+        "rawValue": "-0.41"
+      },
+      "name": "splt-letter-spacing-2",
+      "attributes": {
+        "category": "letterSpacing",
+        "type": "2"
+      },
+      "path": [
+        "letterSpacing",
+        "2"
+      ]
+    }
+  },
+  "paragraphSpacing": {
+    "0": {
+      "value": 0,
+      "type": "paragraphSpacing",
+      "rawValue": "0",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "paragraphSpacing",
+        "rawValue": "0"
+      },
+      "name": "splt-paragraph-spacing-0",
+      "attributes": {
+        "category": "paragraphSpacing",
+        "type": "0"
+      },
+      "path": [
+        "paragraphSpacing",
+        "0"
+      ]
+    }
+  },
+  "ExtraSmall": {
+    "Medium": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Medium",
+        "lineHeight": "125%",
+        "fontSize": 12,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography",
+      "rawValue": {
+        "fontFamily": "$font-family.primary",
+        "fontWeight": "$font-weight.medium",
+        "lineHeight": "$line-height.dynamic",
+        "fontSize": "$font-size.100",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "SF Pro Text",
+          "fontWeight": "Medium",
+          "lineHeight": "125%",
+          "fontSize": 12,
+          "letterSpacing": -0.41,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.medium",
+          "lineHeight": "$line-height.dynamic",
+          "fontSize": "$font-size.100",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        }
+      },
+      "name": "splt-extra-small-medium",
+      "attributes": {
+        "category": "ExtraSmall",
+        "type": "Medium"
+      },
+      "path": [
+        "ExtraSmall",
+        "Medium"
+      ]
+    },
+    "Bold": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Bold",
+        "lineHeight": "AUTO",
+        "fontSize": 12,
+        "letterSpacing": "-4%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography",
+      "rawValue": {
+        "fontFamily": "$font-family.primary",
+        "fontWeight": "$font-weight.bold",
+        "lineHeight": "$line-height.auto",
+        "fontSize": "$font-size.100",
+        "letterSpacing": "$letterSpacing.1",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "SF Pro Text",
+          "fontWeight": "Bold",
+          "lineHeight": "AUTO",
+          "fontSize": 12,
+          "letterSpacing": "-4%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.bold",
+          "lineHeight": "$line-height.auto",
+          "fontSize": "$font-size.100",
+          "letterSpacing": "$letterSpacing.1",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        }
+      },
+      "name": "splt-extra-small-bold",
+      "attributes": {
+        "category": "ExtraSmall",
+        "type": "Bold"
+      },
+      "path": [
+        "ExtraSmall",
+        "Bold"
+      ]
+    }
+  },
+  "Normal": {
+    "Bold": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Bold",
+        "lineHeight": 16,
+        "fontSize": 16,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography",
+      "rawValue": {
+        "fontFamily": "$font-family.primary",
+        "fontWeight": "$font-weight.bold",
+        "lineHeight": "$line-height.300",
+        "fontSize": "$font-size.300",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "SF Pro Text",
+          "fontWeight": "Bold",
+          "lineHeight": 16,
+          "fontSize": 16,
+          "letterSpacing": -0.41,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.bold",
+          "lineHeight": "$line-height.300",
+          "fontSize": "$font-size.300",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        }
+      },
+      "name": "splt-normal-bold",
+      "attributes": {
+        "category": "Normal",
+        "type": "Bold"
+      },
+      "path": [
+        "Normal",
+        "Bold"
+      ]
+    }
+  },
+  "Large": {
+    "Bold": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Bold",
+        "lineHeight": "AUTO",
+        "fontSize": 24,
+        "letterSpacing": "-4%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography",
+      "rawValue": {
+        "fontFamily": "$font-family.primary",
+        "fontWeight": "$font-weight.bold",
+        "lineHeight": "$line-height.auto",
+        "fontSize": "$font-size.400",
+        "letterSpacing": "$letterSpacing.1",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "SF Pro Text",
+          "fontWeight": "Bold",
+          "lineHeight": "AUTO",
+          "fontSize": 24,
+          "letterSpacing": "-4%",
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.bold",
+          "lineHeight": "$line-height.auto",
+          "fontSize": "$font-size.400",
+          "letterSpacing": "$letterSpacing.1",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        }
+      },
+      "name": "splt-large-bold",
+      "attributes": {
+        "category": "Large",
+        "type": "Bold"
+      },
+      "path": [
+        "Large",
+        "Bold"
+      ]
+    }
+  },
+  "Small": {
+    "Bold": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Bold",
+        "lineHeight": 14,
+        "fontSize": 14,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography",
+      "rawValue": {
+        "fontFamily": "$font-family.primary",
+        "fontWeight": "$font-weight.bold",
+        "lineHeight": "$line-height.200",
+        "fontSize": "$font-size.200",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "SF Pro Text",
+          "fontWeight": "Bold",
+          "lineHeight": 14,
+          "fontSize": 14,
+          "letterSpacing": -0.41,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.bold",
+          "lineHeight": "$line-height.200",
+          "fontSize": "$font-size.200",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        }
+      },
+      "name": "splt-small-bold",
+      "attributes": {
+        "category": "Small",
+        "type": "Bold"
+      },
+      "path": [
+        "Small",
+        "Bold"
+      ]
+    },
+    "Medium": {
+      "value": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Medium",
+        "lineHeight": "AUTO",
+        "fontSize": 14,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "type": "typography",
+      "rawValue": {
+        "fontFamily": "$font-family.primary",
+        "fontWeight": "$font-weight.medium",
+        "lineHeight": "$line-height.auto",
+        "fontSize": "$font-size.200",
+        "letterSpacing": "$letterSpacing.0",
+        "paragraphSpacing": "$paragraphSpacing.0",
+        "textCase": "$textCase.none",
+        "textDecoration": "$textDecoration.none"
+      },
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": {
+          "fontFamily": "SF Pro Text",
+          "fontWeight": "Medium",
+          "lineHeight": "AUTO",
+          "fontSize": 14,
+          "letterSpacing": -0.41,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.medium",
+          "lineHeight": "$line-height.auto",
+          "fontSize": "$font-size.200",
+          "letterSpacing": "$letterSpacing.0",
+          "paragraphSpacing": "$paragraphSpacing.0",
+          "textCase": "$textCase.none",
+          "textDecoration": "$textDecoration.none"
+        }
+      },
+      "name": "splt-small-medium",
+      "attributes": {
+        "category": "Small",
+        "type": "Medium"
+      },
+      "path": [
+        "Small",
+        "Medium"
+      ]
+    }
+  },
+  "textCase": {
+    "none": {
+      "value": "none",
+      "type": "textCase",
+      "rawValue": "none",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "none",
+        "type": "textCase",
+        "rawValue": "none"
+      },
+      "name": "splt-text-case-none",
+      "attributes": {
+        "category": "textCase",
+        "type": "none"
+      },
+      "path": [
+        "textCase",
+        "none"
+      ]
+    }
+  },
+  "textDecoration": {
+    "none": {
+      "value": "none",
+      "type": "textDecoration",
+      "rawValue": "none",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "none",
+        "type": "textDecoration",
+        "rawValue": "none"
+      },
+      "name": "splt-text-decoration-none",
+      "attributes": {
+        "category": "textDecoration",
+        "type": "none"
+      },
+      "path": [
+        "textDecoration",
+        "none"
+      ]
+    }
+  },
+  "sizing": {
+    "0": {
+      "value": 0,
+      "type": "sizing",
+      "rawValue": "0",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "sizing",
+        "rawValue": "0"
+      },
+      "name": "splt-sizing-0",
+      "attributes": {
+        "category": "sizing",
+        "type": "0"
+      },
+      "path": [
+        "sizing",
+        "0"
+      ]
+    },
+    "25": {
+      "value": 2,
+      "type": "sizing",
+      "rawValue": "2",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 2,
+        "type": "sizing",
+        "rawValue": "2"
+      },
+      "name": "splt-sizing-25",
+      "attributes": {
+        "category": "sizing",
+        "type": "25"
+      },
+      "path": [
+        "sizing",
+        "25"
+      ]
+    },
+    "50": {
+      "value": 4,
+      "type": "sizing",
+      "rawValue": "4",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 4,
+        "type": "sizing",
+        "rawValue": "4"
+      },
+      "name": "splt-sizing-50",
+      "attributes": {
+        "category": "sizing",
+        "type": "50"
+      },
+      "path": [
+        "sizing",
+        "50"
+      ]
+    },
+    "100": {
+      "value": 8,
+      "type": "sizing",
+      "rawValue": "8",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 8,
+        "type": "sizing",
+        "rawValue": "8"
+      },
+      "name": "splt-sizing-100",
+      "attributes": {
+        "category": "sizing",
+        "type": "100"
+      },
+      "path": [
+        "sizing",
+        "100"
+      ]
+    },
+    "150": {
+      "value": 12,
+      "type": "sizing",
+      "rawValue": "12",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 12,
+        "type": "sizing",
+        "rawValue": "12"
+      },
+      "name": "splt-sizing-150",
+      "attributes": {
+        "category": "sizing",
+        "type": "150"
+      },
+      "path": [
+        "sizing",
+        "150"
+      ]
+    },
+    "200": {
+      "value": 16,
+      "type": "sizing",
+      "rawValue": "16",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "sizing",
+        "rawValue": "16"
+      },
+      "name": "splt-sizing-200",
+      "attributes": {
+        "category": "sizing",
+        "type": "200"
+      },
+      "path": [
+        "sizing",
+        "200"
+      ]
+    },
+    "250": {
+      "value": 20,
+      "type": "sizing",
+      "rawValue": "20",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 20,
+        "type": "sizing",
+        "rawValue": "20"
+      },
+      "name": "splt-sizing-250",
+      "attributes": {
+        "category": "sizing",
+        "type": "250"
+      },
+      "path": [
+        "sizing",
+        "250"
+      ]
+    },
+    "300": {
+      "value": 24,
+      "type": "sizing",
+      "rawValue": "24",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 24,
+        "type": "sizing",
+        "rawValue": "24"
+      },
+      "name": "splt-sizing-300",
+      "attributes": {
+        "category": "sizing",
+        "type": "300"
+      },
+      "path": [
+        "sizing",
+        "300"
+      ]
+    },
+    "400": {
+      "value": 32,
+      "type": "sizing",
+      "rawValue": "32",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 32,
+        "type": "sizing",
+        "rawValue": "32"
+      },
+      "name": "splt-sizing-400",
+      "attributes": {
+        "category": "sizing",
+        "type": "400"
+      },
+      "path": [
+        "sizing",
+        "400"
+      ]
+    },
+    "500": {
+      "value": 40,
+      "type": "sizing",
+      "rawValue": "40",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 40,
+        "type": "sizing",
+        "rawValue": "40"
+      },
+      "name": "splt-sizing-500",
+      "attributes": {
+        "category": "sizing",
+        "type": "500"
+      },
+      "path": [
+        "sizing",
+        "500"
+      ]
+    },
+    "600": {
+      "value": 48,
+      "type": "sizing",
+      "rawValue": "48",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 48,
+        "type": "sizing",
+        "rawValue": "48"
+      },
+      "name": "splt-sizing-600",
+      "attributes": {
+        "category": "sizing",
+        "type": "600"
+      },
+      "path": [
+        "sizing",
+        "600"
+      ]
+    },
+    "700": {
+      "value": 56,
+      "type": "sizing",
+      "rawValue": "56",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 56,
+        "type": "sizing",
+        "rawValue": "56"
+      },
+      "name": "splt-sizing-700",
+      "attributes": {
+        "category": "sizing",
+        "type": "700"
+      },
+      "path": [
+        "sizing",
+        "700"
+      ]
+    },
+    "800": {
+      "value": 64,
+      "type": "sizing",
+      "rawValue": "64",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 64,
+        "type": "sizing",
+        "rawValue": "64"
+      },
+      "name": "splt-sizing-800",
+      "attributes": {
+        "category": "sizing",
+        "type": "800"
+      },
+      "path": [
+        "sizing",
+        "800"
+      ]
+    },
+    "1000": {
+      "value": 80,
+      "type": "sizing",
+      "rawValue": "80",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 80,
+        "type": "sizing",
+        "rawValue": "80"
+      },
+      "name": "splt-sizing-1000",
+      "attributes": {
+        "category": "sizing",
+        "type": "1000"
+      },
+      "path": [
+        "sizing",
+        "1000"
+      ]
+    }
+  },
+  "spacing": {
+    "0": {
+      "value": 0,
+      "type": "spacing",
+      "rawValue": "$sizing.0",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "spacing",
+        "rawValue": "$sizing.0"
+      },
+      "name": "splt-spacing-0",
+      "attributes": {
+        "category": "spacing",
+        "type": "0"
+      },
+      "path": [
+        "spacing",
+        "0"
+      ]
+    },
+    "25": {
+      "value": 2,
+      "type": "spacing",
+      "rawValue": "$sizing.25",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 2,
+        "type": "spacing",
+        "rawValue": "$sizing.25"
+      },
+      "name": "splt-spacing-25",
+      "attributes": {
+        "category": "spacing",
+        "type": "25"
+      },
+      "path": [
+        "spacing",
+        "25"
+      ]
+    },
+    "50": {
+      "value": 4,
+      "type": "spacing",
+      "rawValue": "$sizing.50",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 4,
+        "type": "spacing",
+        "rawValue": "$sizing.50"
+      },
+      "name": "splt-spacing-50",
+      "attributes": {
+        "category": "spacing",
+        "type": "50"
+      },
+      "path": [
+        "spacing",
+        "50"
+      ]
+    },
+    "100": {
+      "value": 8,
+      "type": "spacing",
+      "rawValue": "$sizing.100",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 8,
+        "type": "spacing",
+        "rawValue": "$sizing.100"
+      },
+      "name": "splt-spacing-100",
+      "attributes": {
+        "category": "spacing",
+        "type": "100"
+      },
+      "path": [
+        "spacing",
+        "100"
+      ]
+    },
+    "150": {
+      "value": 12,
+      "type": "spacing",
+      "rawValue": "$sizing.150",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 12,
+        "type": "spacing",
+        "rawValue": "$sizing.150"
+      },
+      "name": "splt-spacing-150",
+      "attributes": {
+        "category": "spacing",
+        "type": "150"
+      },
+      "path": [
+        "spacing",
+        "150"
+      ]
+    },
+    "200": {
+      "value": 16,
+      "type": "spacing",
+      "rawValue": "$sizing.200",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "spacing",
+        "rawValue": "$sizing.200"
+      },
+      "name": "splt-spacing-200",
+      "attributes": {
+        "category": "spacing",
+        "type": "200"
+      },
+      "path": [
+        "spacing",
+        "200"
+      ]
+    },
+    "250": {
+      "value": 20,
+      "type": "spacing",
+      "rawValue": "$sizing.250",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 20,
+        "type": "spacing",
+        "rawValue": "$sizing.250"
+      },
+      "name": "splt-spacing-250",
+      "attributes": {
+        "category": "spacing",
+        "type": "250"
+      },
+      "path": [
+        "spacing",
+        "250"
+      ]
+    },
+    "300": {
+      "value": 24,
+      "type": "spacing",
+      "rawValue": "$sizing.300",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 24,
+        "type": "spacing",
+        "rawValue": "$sizing.300"
+      },
+      "name": "splt-spacing-300",
+      "attributes": {
+        "category": "spacing",
+        "type": "300"
+      },
+      "path": [
+        "spacing",
+        "300"
+      ]
+    },
+    "400": {
+      "value": 32,
+      "type": "spacing",
+      "rawValue": "$sizing.400",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 32,
+        "type": "spacing",
+        "rawValue": "$sizing.400"
+      },
+      "name": "splt-spacing-400",
+      "attributes": {
+        "category": "spacing",
+        "type": "400"
+      },
+      "path": [
+        "spacing",
+        "400"
+      ]
+    },
+    "500": {
+      "value": 40,
+      "type": "spacing",
+      "rawValue": "$sizing.500",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 40,
+        "type": "spacing",
+        "rawValue": "$sizing.500"
+      },
+      "name": "splt-spacing-500",
+      "attributes": {
+        "category": "spacing",
+        "type": "500"
+      },
+      "path": [
+        "spacing",
+        "500"
+      ]
+    }
+  }
+}

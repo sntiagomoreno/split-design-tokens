@@ -1,0 +1,26 @@
+{
+  "button": {
+    "cta": {
+      "primary": {
+        "background-color": "#ff8876",
+        "text-color": "#461d17",
+        "icon-color": "#461d17",
+        "text-line-height": 20,
+        "font-size": 16
+      },
+      "secondary": {
+        "background-color": "#292929",
+        "text-color": "#ff8876",
+        "icon-color": "#ff8876"
+      },
+      "tertiary": {
+        "background-color": "#292929",
+        "text-color": "#b8b8b8",
+        "icon-color": "#b8b8b8"
+      },
+      "padding-horizontal": 20,
+      "padding-vertical": 12,
+      "gap": 2
+    }
+  }
+}
