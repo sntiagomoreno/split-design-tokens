@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 01:34:22 GMT
+ * Generated on Mon, 06 Jun 2022 02:21:03 GMT
  */
 
 export const buttonCtaPrimaryBackgroundColor : string;
@@ -18,3 +18,4 @@ export const buttonCtaPaddingHorizontal : number;
 export const buttonCtaPaddingVertical : number;
 export const buttonCtaGapLabelIcon : number;
 export const buttonCtaRadius : number;
+export const buttonCtaTypography : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };

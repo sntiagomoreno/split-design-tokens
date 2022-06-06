@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 01:34:22 GMT
+ * Generated on Mon, 06 Jun 2022 02:21:03 GMT
  */
 
 export const colorNeutral100 = "#1f1f1f";

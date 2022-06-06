@@ -21,7 +21,17 @@
       "padding-horizontal": 20,
       "padding-vertical": 12,
       "gap-label-icon": 2,
-      "radius": 999
+      "radius": 999,
+      "typography": {
+        "fontFamily": "SF Pro Text",
+        "fontWeight": "Bold",
+        "lineHeight": 16,
+        "fontSize": 16,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      }
     }
   }
 }

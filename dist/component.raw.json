@@ -373,6 +373,47 @@
           "cta",
           "radius"
         ]
+      },
+      "typography": {
+        "value": {
+          "fontFamily": "SF Pro Text",
+          "fontWeight": "Bold",
+          "lineHeight": 16,
+          "fontSize": 16,
+          "letterSpacing": -0.41,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": "$Normal.Bold",
+        "filePath": "src/transformed/component.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro Text",
+            "fontWeight": "Bold",
+            "lineHeight": 16,
+            "fontSize": 16,
+            "letterSpacing": -0.41,
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": "$Normal.Bold"
+        },
+        "name": "splt-button-cta-typography",
+        "attributes": {
+          "category": "button",
+          "type": "cta",
+          "item": "typography"
+        },
+        "path": [
+          "button",
+          "cta",
+          "typography"
+        ]
       }
     }
   }
