@@ -111,12 +111,12 @@
     "300": 16,
     "400": 24
   },
-  "letterSpacing": {
+  "letter-spacing": {
     "0": -0.41,
     "1": "-4%",
     "2": -0.41
   },
-  "paragraphSpacing": {
+  "paragraph-spacing": {
     "0": 0
   },
   "ExtraSmall": {
@@ -187,10 +187,10 @@
       "textDecoration": "none"
     }
   },
-  "textCase": {
+  "text-case": {
     "none": "none"
   },
-  "textDecoration": {
+  "text-decoration": {
     "none": "none"
   },
   "sizing": {
@@ -220,5 +220,14 @@
     "300": 24,
     "400": 32,
     "500": 40
+  },
+  "radius": {
+    "0": 0,
+    "50": 4,
+    "100": 8,
+    "150": 12,
+    "200": 16,
+    "pill": 999,
+    "circle": "50%"
   }
 }

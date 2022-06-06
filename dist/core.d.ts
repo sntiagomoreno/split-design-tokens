@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Sun, 05 Jun 2022 05:05:03 GMT
+ * Generated on Mon, 06 Jun 2022 01:34:22 GMT
  */
 
 export const colorNeutral100 : string;
@@ -127,3 +127,10 @@ export const spacing250 : number;
 export const spacing300 : number;
 export const spacing400 : number;
 export const spacing500 : number;
+export const radius0 : number;
+export const radius50 : number;
+export const radius100 : number;
+export const radius150 : number;
+export const radius200 : number;
+export const radiusPill : number;
+export const radiusCircle : string;

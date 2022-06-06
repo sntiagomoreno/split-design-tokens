@@ -20,7 +20,8 @@
       },
       "padding-horizontal": 20,
       "padding-vertical": 12,
-      "gap": 2
+      "gap-label-icon": 2,
+      "radius": 999
     }
   }
 }

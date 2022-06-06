@@ -1,8 +1,11 @@
 {
-  "name": "@sntiagomoreno/split-design-tokens",
-  "version": "1.0.0",
+  "name": "@santiagomoreno/split-design-tokens",
+  "version": "1.1.0",
   "description": "Design Tokens for Split Design System",
   "main": "index.js",
+  "files": [
+    "dist/**/*"
+  ],
   "repository": "git@github.com:sntiagomoreno/split-design-tokens.git",
   "author": "Santiago Moreno",
   "license": "MIT",
@@ -16,7 +19,10 @@
     "build-dark": "token-transformer src/tokens.json src/transformed/theme-dark.json core,theme.dark core --preserveRawValue --throwErrorWhenNotResolved",
     "build-semantic": "token-transformer src/tokens.json src/transformed/semantic.json core,semantic core --preserveRawValue --throwErrorWhenNotResolved",
     "build-component": "token-transformer src/tokens.json src/transformed/component.json core,theme.dark,component core,theme.dark --preserveRawValue --throwErrorWhenNotResolved",
-    "nest-themes": "node ./helpers/theme.helper.js && style-dictionary build --config ./config/theme.config.js",
-    "build": "yarn build-core && yarn build-dark && yarn build-semantic && yarn build-component && node ./config/index"
+    "build": "yarn build-core && yarn build-dark && yarn build-semantic && yarn build-component && node ./config/index.config",
+    "clean": "rm -rf dist",
+    "prepare": "yarn clean && yarn build",
+    "version": "git add -A",
+    "postversion": "git push && git push --tags"
   }
 }

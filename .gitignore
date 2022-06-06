@@ -5,3 +5,4 @@ dist/ios
 dist/ios-swift
 dist/compose
 src/transformed
+.npm

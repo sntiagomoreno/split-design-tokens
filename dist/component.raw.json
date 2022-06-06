@@ -328,7 +328,7 @@
           "padding-vertical"
         ]
       },
-      "gap": {
+      "gap-label-icon": {
         "value": 2,
         "type": "spacing",
         "rawValue": "$spacing.25",
@@ -339,16 +339,39 @@
           "type": "spacing",
           "rawValue": "$spacing.25"
         },
-        "name": "splt-button-cta-gap",
+        "name": "splt-button-cta-gap-label-icon",
         "attributes": {
           "category": "button",
           "type": "cta",
-          "item": "gap"
+          "item": "gap-label-icon"
         },
         "path": [
           "button",
           "cta",
-          "gap"
+          "gap-label-icon"
+        ]
+      },
+      "radius": {
+        "value": 999,
+        "type": "borderRadius",
+        "rawValue": "$radius.pill",
+        "filePath": "src/transformed/component.json",
+        "isSource": true,
+        "original": {
+          "value": 999,
+          "type": "borderRadius",
+          "rawValue": "$radius.pill"
+        },
+        "name": "splt-button-cta-radius",
+        "attributes": {
+          "category": "button",
+          "type": "cta",
+          "item": "radius"
+        },
+        "path": [
+          "button",
+          "cta",
+          "radius"
         ]
       }
     }

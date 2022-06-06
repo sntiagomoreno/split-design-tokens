@@ -1,10 +1,11 @@
 /**
  * Do not edit directly
- * Generated on Sun, 05 Jun 2022 05:05:03 GMT
+ * Generated on Mon, 06 Jun 2022 01:34:22 GMT
  */
 
 :root {
-  --splt-button-cta-gap: 2;
+  --splt-button-cta-radius: 999;
+  --splt-button-cta-gap-label-icon: 2;
   --splt-button-cta-padding-vertical: 12;
   --splt-button-cta-padding-horizontal: 20;
   --splt-button-cta-tertiary-icon-color: #b8b8b8;

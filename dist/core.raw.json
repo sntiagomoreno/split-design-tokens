@@ -2163,7 +2163,7 @@
       ]
     }
   },
-  "letterSpacing": {
+  "letter-spacing": {
     "0": {
       "value": -0.41,
       "type": "letterSpacing",
@@ -2177,11 +2177,11 @@
       },
       "name": "splt-letter-spacing-0",
       "attributes": {
-        "category": "letterSpacing",
+        "category": "letter-spacing",
         "type": "0"
       },
       "path": [
-        "letterSpacing",
+        "letter-spacing",
         "0"
       ]
     },
@@ -2198,11 +2198,11 @@
       },
       "name": "splt-letter-spacing-1",
       "attributes": {
-        "category": "letterSpacing",
+        "category": "letter-spacing",
         "type": "1"
       },
       "path": [
-        "letterSpacing",
+        "letter-spacing",
         "1"
       ]
     },
@@ -2219,16 +2219,16 @@
       },
       "name": "splt-letter-spacing-2",
       "attributes": {
-        "category": "letterSpacing",
+        "category": "letter-spacing",
         "type": "2"
       },
       "path": [
-        "letterSpacing",
+        "letter-spacing",
         "2"
       ]
     }
   },
-  "paragraphSpacing": {
+  "paragraph-spacing": {
     "0": {
       "value": 0,
       "type": "paragraphSpacing",
@@ -2242,11 +2242,11 @@
       },
       "name": "splt-paragraph-spacing-0",
       "attributes": {
-        "category": "paragraphSpacing",
+        "category": "paragraph-spacing",
         "type": "0"
       },
       "path": [
-        "paragraphSpacing",
+        "paragraph-spacing",
         "0"
       ]
     }
@@ -2269,10 +2269,10 @@
         "fontWeight": "$font-weight.medium",
         "lineHeight": "$line-height.dynamic",
         "fontSize": "$font-size.100",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
+        "letterSpacing": "$letter-spacing.0",
+        "paragraphSpacing": "$paragraph-spacing.0",
+        "textCase": "$text-case.none",
+        "textDecoration": "$text-decoration.none"
       },
       "filePath": "src/transformed/core.json",
       "isSource": true,
@@ -2293,10 +2293,10 @@
           "fontWeight": "$font-weight.medium",
           "lineHeight": "$line-height.dynamic",
           "fontSize": "$font-size.100",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
+          "letterSpacing": "$letter-spacing.0",
+          "paragraphSpacing": "$paragraph-spacing.0",
+          "textCase": "$text-case.none",
+          "textDecoration": "$text-decoration.none"
         }
       },
       "name": "splt-extra-small-medium",
@@ -2326,10 +2326,10 @@
         "fontWeight": "$font-weight.bold",
         "lineHeight": "$line-height.auto",
         "fontSize": "$font-size.100",
-        "letterSpacing": "$letterSpacing.1",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
+        "letterSpacing": "$letter-spacing.1",
+        "paragraphSpacing": "$paragraph-spacing.0",
+        "textCase": "$text-case.none",
+        "textDecoration": "$text-decoration.none"
       },
       "filePath": "src/transformed/core.json",
       "isSource": true,
@@ -2350,10 +2350,10 @@
           "fontWeight": "$font-weight.bold",
           "lineHeight": "$line-height.auto",
           "fontSize": "$font-size.100",
-          "letterSpacing": "$letterSpacing.1",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
+          "letterSpacing": "$letter-spacing.1",
+          "paragraphSpacing": "$paragraph-spacing.0",
+          "textCase": "$text-case.none",
+          "textDecoration": "$text-decoration.none"
         }
       },
       "name": "splt-extra-small-bold",
@@ -2385,10 +2385,10 @@
         "fontWeight": "$font-weight.bold",
         "lineHeight": "$line-height.300",
         "fontSize": "$font-size.300",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
+        "letterSpacing": "$letter-spacing.0",
+        "paragraphSpacing": "$paragraph-spacing.0",
+        "textCase": "$text-case.none",
+        "textDecoration": "$text-decoration.none"
       },
       "filePath": "src/transformed/core.json",
       "isSource": true,
@@ -2409,10 +2409,10 @@
           "fontWeight": "$font-weight.bold",
           "lineHeight": "$line-height.300",
           "fontSize": "$font-size.300",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
+          "letterSpacing": "$letter-spacing.0",
+          "paragraphSpacing": "$paragraph-spacing.0",
+          "textCase": "$text-case.none",
+          "textDecoration": "$text-decoration.none"
         }
       },
       "name": "splt-normal-bold",
@@ -2444,10 +2444,10 @@
         "fontWeight": "$font-weight.bold",
         "lineHeight": "$line-height.auto",
         "fontSize": "$font-size.400",
-        "letterSpacing": "$letterSpacing.1",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
+        "letterSpacing": "$letter-spacing.1",
+        "paragraphSpacing": "$paragraph-spacing.0",
+        "textCase": "$text-case.none",
+        "textDecoration": "$text-decoration.none"
       },
       "filePath": "src/transformed/core.json",
       "isSource": true,
@@ -2468,10 +2468,10 @@
           "fontWeight": "$font-weight.bold",
           "lineHeight": "$line-height.auto",
           "fontSize": "$font-size.400",
-          "letterSpacing": "$letterSpacing.1",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
+          "letterSpacing": "$letter-spacing.1",
+          "paragraphSpacing": "$paragraph-spacing.0",
+          "textCase": "$text-case.none",
+          "textDecoration": "$text-decoration.none"
         }
       },
       "name": "splt-large-bold",
@@ -2503,10 +2503,10 @@
         "fontWeight": "$font-weight.bold",
         "lineHeight": "$line-height.200",
         "fontSize": "$font-size.200",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
+        "letterSpacing": "$letter-spacing.0",
+        "paragraphSpacing": "$paragraph-spacing.0",
+        "textCase": "$text-case.none",
+        "textDecoration": "$text-decoration.none"
       },
       "filePath": "src/transformed/core.json",
       "isSource": true,
@@ -2527,10 +2527,10 @@
           "fontWeight": "$font-weight.bold",
           "lineHeight": "$line-height.200",
           "fontSize": "$font-size.200",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
+          "letterSpacing": "$letter-spacing.0",
+          "paragraphSpacing": "$paragraph-spacing.0",
+          "textCase": "$text-case.none",
+          "textDecoration": "$text-decoration.none"
         }
       },
       "name": "splt-small-bold",
@@ -2560,10 +2560,10 @@
         "fontWeight": "$font-weight.medium",
         "lineHeight": "$line-height.auto",
         "fontSize": "$font-size.200",
-        "letterSpacing": "$letterSpacing.0",
-        "paragraphSpacing": "$paragraphSpacing.0",
-        "textCase": "$textCase.none",
-        "textDecoration": "$textDecoration.none"
+        "letterSpacing": "$letter-spacing.0",
+        "paragraphSpacing": "$paragraph-spacing.0",
+        "textCase": "$text-case.none",
+        "textDecoration": "$text-decoration.none"
       },
       "filePath": "src/transformed/core.json",
       "isSource": true,
@@ -2584,10 +2584,10 @@
           "fontWeight": "$font-weight.medium",
           "lineHeight": "$line-height.auto",
           "fontSize": "$font-size.200",
-          "letterSpacing": "$letterSpacing.0",
-          "paragraphSpacing": "$paragraphSpacing.0",
-          "textCase": "$textCase.none",
-          "textDecoration": "$textDecoration.none"
+          "letterSpacing": "$letter-spacing.0",
+          "paragraphSpacing": "$paragraph-spacing.0",
+          "textCase": "$text-case.none",
+          "textDecoration": "$text-decoration.none"
         }
       },
       "name": "splt-small-medium",
@@ -2601,7 +2601,7 @@
       ]
     }
   },
-  "textCase": {
+  "text-case": {
     "none": {
       "value": "none",
       "type": "textCase",
@@ -2615,16 +2615,16 @@
       },
       "name": "splt-text-case-none",
       "attributes": {
-        "category": "textCase",
+        "category": "text-case",
         "type": "none"
       },
       "path": [
-        "textCase",
+        "text-case",
         "none"
       ]
     }
   },
-  "textDecoration": {
+  "text-decoration": {
     "none": {
       "value": "none",
       "type": "textDecoration",
@@ -2638,11 +2638,11 @@
       },
       "name": "splt-text-decoration-none",
       "attributes": {
-        "category": "textDecoration",
+        "category": "text-decoration",
         "type": "none"
       },
       "path": [
-        "textDecoration",
+        "text-decoration",
         "none"
       ]
     }
@@ -3152,6 +3152,155 @@
       "path": [
         "spacing",
         "500"
+      ]
+    }
+  },
+  "radius": {
+    "0": {
+      "value": 0,
+      "type": "borderRadius",
+      "rawValue": "0",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "borderRadius",
+        "rawValue": "0"
+      },
+      "name": "splt-radius-0",
+      "attributes": {
+        "category": "radius",
+        "type": "0"
+      },
+      "path": [
+        "radius",
+        "0"
+      ]
+    },
+    "50": {
+      "value": 4,
+      "type": "borderRadius",
+      "rawValue": "4",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 4,
+        "type": "borderRadius",
+        "rawValue": "4"
+      },
+      "name": "splt-radius-50",
+      "attributes": {
+        "category": "radius",
+        "type": "50"
+      },
+      "path": [
+        "radius",
+        "50"
+      ]
+    },
+    "100": {
+      "value": 8,
+      "type": "borderRadius",
+      "rawValue": "8",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 8,
+        "type": "borderRadius",
+        "rawValue": "8"
+      },
+      "name": "splt-radius-100",
+      "attributes": {
+        "category": "radius",
+        "type": "100"
+      },
+      "path": [
+        "radius",
+        "100"
+      ]
+    },
+    "150": {
+      "value": 12,
+      "type": "borderRadius",
+      "rawValue": "12",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 12,
+        "type": "borderRadius",
+        "rawValue": "12"
+      },
+      "name": "splt-radius-150",
+      "attributes": {
+        "category": "radius",
+        "type": "150"
+      },
+      "path": [
+        "radius",
+        "150"
+      ]
+    },
+    "200": {
+      "value": 16,
+      "type": "borderRadius",
+      "rawValue": "16",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "borderRadius",
+        "rawValue": "16"
+      },
+      "name": "splt-radius-200",
+      "attributes": {
+        "category": "radius",
+        "type": "200"
+      },
+      "path": [
+        "radius",
+        "200"
+      ]
+    },
+    "pill": {
+      "value": 999,
+      "type": "borderRadius",
+      "rawValue": "999",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 999,
+        "type": "borderRadius",
+        "rawValue": "999"
+      },
+      "name": "splt-radius-pill",
+      "attributes": {
+        "category": "radius",
+        "type": "pill"
+      },
+      "path": [
+        "radius",
+        "pill"
+      ]
+    },
+    "circle": {
+      "value": "50%",
+      "type": "borderRadius",
+      "rawValue": "50%",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": "50%",
+        "type": "borderRadius",
+        "rawValue": "50%"
+      },
+      "name": "splt-radius-circle",
+      "attributes": {
+        "category": "radius",
+        "type": "circle"
+      },
+      "path": [
+        "radius",
+        "circle"
       ]
     }
   }
