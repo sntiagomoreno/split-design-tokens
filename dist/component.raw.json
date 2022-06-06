@@ -5,13 +5,11 @@
         "background-color": {
           "value": "#ff8876",
           "type": "color",
-          "rawValue": "$color.surface.brand",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#ff8876",
-            "type": "color",
-            "rawValue": "$color.surface.brand"
+            "type": "color"
           },
           "name": "splt-button-cta-primary-background-color",
           "attributes": {
@@ -30,13 +28,11 @@
         "text-color": {
           "value": "#461d17",
           "type": "color",
-          "rawValue": "$color.text.on-brand",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#461d17",
-            "type": "color",
-            "rawValue": "$color.text.on-brand"
+            "type": "color"
           },
           "name": "splt-button-cta-primary-text-color",
           "attributes": {
@@ -55,13 +51,11 @@
         "icon-color": {
           "value": "#461d17",
           "type": "color",
-          "rawValue": "$color.icon.secondary",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#461d17",
-            "type": "color",
-            "rawValue": "$color.icon.secondary"
+            "type": "color"
           },
           "name": "splt-button-cta-primary-icon-color",
           "attributes": {
@@ -80,13 +74,11 @@
         "text-line-height": {
           "value": 20,
           "type": "lineHeights",
-          "rawValue": "$line-height.350",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": 20,
-            "type": "lineHeights",
-            "rawValue": "$line-height.350"
+            "type": "lineHeights"
           },
           "name": "splt-button-cta-primary-text-line-height",
           "attributes": {
@@ -105,13 +97,11 @@
         "font-size": {
           "value": 16,
           "type": "fontSizes",
-          "rawValue": "$font-size.300",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": 16,
-            "type": "fontSizes",
-            "rawValue": "$font-size.300"
+            "type": "fontSizes"
           },
           "name": "splt-button-cta-primary-font-size",
           "attributes": {
@@ -132,13 +122,11 @@
         "background-color": {
           "value": "#292929",
           "type": "color",
-          "rawValue": "$color.surface.secondary",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#292929",
-            "type": "color",
-            "rawValue": "$color.surface.secondary"
+            "type": "color"
           },
           "name": "splt-button-cta-secondary-background-color",
           "attributes": {
@@ -157,13 +145,11 @@
         "text-color": {
           "value": "#ff8876",
           "type": "color",
-          "rawValue": "$color.text.strong",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#ff8876",
-            "type": "color",
-            "rawValue": "$color.text.strong"
+            "type": "color"
           },
           "name": "splt-button-cta-secondary-text-color",
           "attributes": {
@@ -182,13 +168,11 @@
         "icon-color": {
           "value": "#ff8876",
           "type": "color",
-          "rawValue": "$color.icon.brand",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#ff8876",
-            "type": "color",
-            "rawValue": "$color.icon.brand"
+            "type": "color"
           },
           "name": "splt-button-cta-secondary-icon-color",
           "attributes": {
@@ -209,13 +193,11 @@
         "background-color": {
           "value": "#292929",
           "type": "color",
-          "rawValue": "$color.surface.secondary",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#292929",
-            "type": "color",
-            "rawValue": "$color.surface.secondary"
+            "type": "color"
           },
           "name": "splt-button-cta-tertiary-background-color",
           "attributes": {
@@ -234,13 +216,11 @@
         "text-color": {
           "value": "#b8b8b8",
           "type": "color",
-          "rawValue": "$color.text.secondary",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#b8b8b8",
-            "type": "color",
-            "rawValue": "$color.text.secondary"
+            "type": "color"
           },
           "name": "splt-button-cta-tertiary-text-color",
           "attributes": {
@@ -259,13 +239,11 @@
         "icon-color": {
           "value": "#b8b8b8",
           "type": "color",
-          "rawValue": "$color.icon.tertiary",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
             "value": "#b8b8b8",
-            "type": "color",
-            "rawValue": "$color.icon.tertiary"
+            "type": "color"
           },
           "name": "splt-button-cta-tertiary-icon-color",
           "attributes": {
@@ -285,13 +263,11 @@
       "padding-horizontal": {
         "value": 20,
         "type": "spacing",
-        "rawValue": "$spacing.250",
         "filePath": "src/transformed/component.json",
         "isSource": true,
         "original": {
           "value": 20,
-          "type": "spacing",
-          "rawValue": "$spacing.250"
+          "type": "spacing"
         },
         "name": "splt-button-cta-padding-horizontal",
         "attributes": {
@@ -308,13 +284,11 @@
       "padding-vertical": {
         "value": 12,
         "type": "spacing",
-        "rawValue": "$spacing.150",
         "filePath": "src/transformed/component.json",
         "isSource": true,
         "original": {
           "value": 12,
-          "type": "spacing",
-          "rawValue": "$spacing.150"
+          "type": "spacing"
         },
         "name": "splt-button-cta-padding-vertical",
         "attributes": {
@@ -331,13 +305,11 @@
       "gap-label-icon": {
         "value": 2,
         "type": "spacing",
-        "rawValue": "$spacing.25",
         "filePath": "src/transformed/component.json",
         "isSource": true,
         "original": {
           "value": 2,
-          "type": "spacing",
-          "rawValue": "$spacing.25"
+          "type": "spacing"
         },
         "name": "splt-button-cta-gap-label-icon",
         "attributes": {
@@ -354,13 +326,11 @@
       "radius": {
         "value": 999,
         "type": "borderRadius",
-        "rawValue": "$radius.pill",
         "filePath": "src/transformed/component.json",
         "isSource": true,
         "original": {
           "value": 999,
-          "type": "borderRadius",
-          "rawValue": "$radius.pill"
+          "type": "borderRadius"
         },
         "name": "splt-button-cta-radius",
         "attributes": {
@@ -376,9 +346,9 @@
       },
       "typography": {
         "value": {
-          "fontFamily": "SF Pro Text",
+          "fontFamily": "SF Pro",
           "fontWeight": "Bold",
-          "lineHeight": 16,
+          "lineHeight": 20,
           "fontSize": 16,
           "letterSpacing": -0.41,
           "paragraphSpacing": 0,
@@ -386,22 +356,20 @@
           "textDecoration": "none"
         },
         "type": "typography",
-        "rawValue": "$Normal.Bold",
         "filePath": "src/transformed/component.json",
         "isSource": true,
         "original": {
           "value": {
-            "fontFamily": "SF Pro Text",
+            "fontFamily": "SF Pro",
             "fontWeight": "Bold",
-            "lineHeight": 16,
+            "lineHeight": 20,
             "fontSize": 16,
             "letterSpacing": -0.41,
             "paragraphSpacing": 0,
             "textCase": "none",
             "textDecoration": "none"
           },
-          "type": "typography",
-          "rawValue": "$Normal.Bold"
+          "type": "typography"
         },
         "name": "splt-button-cta-typography",
         "attributes": {

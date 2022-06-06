@@ -23,9 +23,9 @@
       "gap-label-icon": 2,
       "radius": 999,
       "typography": {
-        "fontFamily": "SF Pro Text",
+        "fontFamily": "SF Pro",
         "fontWeight": "Bold",
-        "lineHeight": 16,
+        "lineHeight": 20,
         "fontSize": 16,
         "letterSpacing": -0.41,
         "paragraphSpacing": 0,

@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 02:21:03 GMT
+ * Generated on Mon, 06 Jun 2022 04:03:59 GMT
  */
 
 :root {
@@ -37,12 +37,12 @@
   --splt-sizing-0: 0;
   --splt-text-decoration-none: none;
   --splt-text-case-none: none;
-  --splt-small-medium: Medium 14px/initial "SF Pro Text", sans-serif;
-  --splt-small-bold: Bold 14px/14px "SF Pro Text", sans-serif;
-  --splt-large-bold: Bold 24px/initial "SF Pro Text", sans-serif;
-  --splt-normal-bold: Bold 16px/16px "SF Pro Text", sans-serif;
-  --splt-extra-small-bold: Bold 12px/initial "SF Pro Text", sans-serif;
-  --splt-extra-small-medium: Medium 12px/125% "SF Pro Text", sans-serif;
+  --splt-typography-small-medium: Medium 14px/initial "SF Pro", sans-serif;
+  --splt-typography-small-bold: Bold 14px/14px "SF Pro", sans-serif;
+  --splt-typography-large-bold: Bold 24px/initial "SF Pro", sans-serif;
+  --splt-typography-normal-bold: Bold 16px/20px "SF Pro", sans-serif;
+  --splt-typography-extra-small-bold: Bold 12px/initial "SF Pro", sans-serif;
+  --splt-typography-extra-small-medium: Medium 12px/125% "SF Pro", sans-serif;
   --splt-paragraph-spacing-0: 0;
   --splt-letter-spacing-2: -0.41;
   --splt-letter-spacing-1: -4%;
@@ -60,7 +60,7 @@
   --splt-line-height-300: 16;
   --splt-line-height-200: 14;
   --splt-line-height-100: 12;
-  --splt-font-family-primary: "SF Pro Text", sans-serif;
+  --splt-font-family-primary: "SF Pro", sans-serif;
   --splt-color-basic-black: #000000;
   --splt-color-basic-white: #ffffff;
   --splt-color-green-1200: #8af465;

@@ -1863,15 +1863,15 @@
   },
   "font-family": {
     "primary": {
-      "value": "SF Pro Text",
+      "value": "SF Pro",
       "type": "fontFamilies",
-      "rawValue": "SF Pro Text",
+      "rawValue": "SF Pro",
       "filePath": "src/transformed/core.json",
       "isSource": true,
       "original": {
-        "value": "SF Pro Text",
+        "value": "SF Pro",
         "type": "fontFamilies",
-        "rawValue": "SF Pro Text"
+        "rawValue": "SF Pro"
       },
       "name": "splt-font-family-primary",
       "attributes": {
@@ -2251,34 +2251,11 @@
       ]
     }
   },
-  "ExtraSmall": {
-    "Medium": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Medium",
-        "lineHeight": "125%",
-        "fontSize": 12,
-        "letterSpacing": -0.41,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
-      },
-      "type": "typography",
-      "rawValue": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.medium",
-        "lineHeight": "$line-height.dynamic",
-        "fontSize": "$font-size.100",
-        "letterSpacing": "$letter-spacing.0",
-        "paragraphSpacing": "$paragraph-spacing.0",
-        "textCase": "$text-case.none",
-        "textDecoration": "$text-decoration.none"
-      },
-      "filePath": "src/transformed/core.json",
-      "isSource": true,
-      "original": {
+  "typography": {
+    "extra-small": {
+      "medium": {
         "value": {
-          "fontFamily": "SF Pro Text",
+          "fontFamily": "SF Pro",
           "fontWeight": "Medium",
           "lineHeight": "125%",
           "fontSize": 12,
@@ -2297,45 +2274,47 @@
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
           "textDecoration": "$text-decoration.none"
-        }
+        },
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontWeight": "Medium",
+            "lineHeight": "125%",
+            "fontSize": 12,
+            "letterSpacing": -0.41,
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": {
+            "fontFamily": "$font-family.primary",
+            "fontWeight": "$font-weight.medium",
+            "lineHeight": "$line-height.dynamic",
+            "fontSize": "$font-size.100",
+            "letterSpacing": "$letter-spacing.0",
+            "paragraphSpacing": "$paragraph-spacing.0",
+            "textCase": "$text-case.none",
+            "textDecoration": "$text-decoration.none"
+          }
+        },
+        "name": "splt-typography-extra-small-medium",
+        "attributes": {
+          "category": "typography",
+          "type": "extra-small",
+          "item": "medium"
+        },
+        "path": [
+          "typography",
+          "extra-small",
+          "medium"
+        ]
       },
-      "name": "splt-extra-small-medium",
-      "attributes": {
-        "category": "ExtraSmall",
-        "type": "Medium"
-      },
-      "path": [
-        "ExtraSmall",
-        "Medium"
-      ]
-    },
-    "Bold": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Bold",
-        "lineHeight": "AUTO",
-        "fontSize": 12,
-        "letterSpacing": "-4%",
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
-      },
-      "type": "typography",
-      "rawValue": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.bold",
-        "lineHeight": "$line-height.auto",
-        "fontSize": "$font-size.100",
-        "letterSpacing": "$letter-spacing.1",
-        "paragraphSpacing": "$paragraph-spacing.0",
-        "textCase": "$text-case.none",
-        "textDecoration": "$text-decoration.none"
-      },
-      "filePath": "src/transformed/core.json",
-      "isSource": true,
-      "original": {
+      "bold": {
         "value": {
-          "fontFamily": "SF Pro Text",
+          "fontFamily": "SF Pro",
           "fontWeight": "Bold",
           "lineHeight": "AUTO",
           "fontSize": 12,
@@ -2354,49 +2333,51 @@
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
           "textDecoration": "$text-decoration.none"
-        }
-      },
-      "name": "splt-extra-small-bold",
-      "attributes": {
-        "category": "ExtraSmall",
-        "type": "Bold"
-      },
-      "path": [
-        "ExtraSmall",
-        "Bold"
-      ]
-    }
-  },
-  "Normal": {
-    "Bold": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Bold",
-        "lineHeight": 16,
-        "fontSize": 16,
-        "letterSpacing": -0.41,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
-      },
-      "type": "typography",
-      "rawValue": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.bold",
-        "lineHeight": "$line-height.300",
-        "fontSize": "$font-size.300",
-        "letterSpacing": "$letter-spacing.0",
-        "paragraphSpacing": "$paragraph-spacing.0",
-        "textCase": "$text-case.none",
-        "textDecoration": "$text-decoration.none"
-      },
-      "filePath": "src/transformed/core.json",
-      "isSource": true,
-      "original": {
+        },
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontWeight": "Bold",
+            "lineHeight": "AUTO",
+            "fontSize": 12,
+            "letterSpacing": "-4%",
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": {
+            "fontFamily": "$font-family.primary",
+            "fontWeight": "$font-weight.bold",
+            "lineHeight": "$line-height.auto",
+            "fontSize": "$font-size.100",
+            "letterSpacing": "$letter-spacing.1",
+            "paragraphSpacing": "$paragraph-spacing.0",
+            "textCase": "$text-case.none",
+            "textDecoration": "$text-decoration.none"
+          }
+        },
+        "name": "splt-typography-extra-small-bold",
+        "attributes": {
+          "category": "typography",
+          "type": "extra-small",
+          "item": "bold"
+        },
+        "path": [
+          "typography",
+          "extra-small",
+          "bold"
+        ]
+      }
+    },
+    "normal": {
+      "bold": {
         "value": {
-          "fontFamily": "SF Pro Text",
+          "fontFamily": "SF Pro",
           "fontWeight": "Bold",
-          "lineHeight": 16,
+          "lineHeight": 20,
           "fontSize": 16,
           "letterSpacing": -0.41,
           "paragraphSpacing": 0,
@@ -2407,53 +2388,55 @@
         "rawValue": {
           "fontFamily": "$font-family.primary",
           "fontWeight": "$font-weight.bold",
-          "lineHeight": "$line-height.300",
+          "lineHeight": "$line-height.350",
           "fontSize": "$font-size.300",
           "letterSpacing": "$letter-spacing.0",
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
           "textDecoration": "$text-decoration.none"
-        }
-      },
-      "name": "splt-normal-bold",
-      "attributes": {
-        "category": "Normal",
-        "type": "Bold"
-      },
-      "path": [
-        "Normal",
-        "Bold"
-      ]
-    }
-  },
-  "Large": {
-    "Bold": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Bold",
-        "lineHeight": "AUTO",
-        "fontSize": 24,
-        "letterSpacing": "-4%",
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
-      },
-      "type": "typography",
-      "rawValue": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.bold",
-        "lineHeight": "$line-height.auto",
-        "fontSize": "$font-size.400",
-        "letterSpacing": "$letter-spacing.1",
-        "paragraphSpacing": "$paragraph-spacing.0",
-        "textCase": "$text-case.none",
-        "textDecoration": "$text-decoration.none"
-      },
-      "filePath": "src/transformed/core.json",
-      "isSource": true,
-      "original": {
+        },
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontWeight": "Bold",
+            "lineHeight": 20,
+            "fontSize": 16,
+            "letterSpacing": -0.41,
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": {
+            "fontFamily": "$font-family.primary",
+            "fontWeight": "$font-weight.bold",
+            "lineHeight": "$line-height.350",
+            "fontSize": "$font-size.300",
+            "letterSpacing": "$letter-spacing.0",
+            "paragraphSpacing": "$paragraph-spacing.0",
+            "textCase": "$text-case.none",
+            "textDecoration": "$text-decoration.none"
+          }
+        },
+        "name": "splt-typography-normal-bold",
+        "attributes": {
+          "category": "typography",
+          "type": "normal",
+          "item": "bold"
+        },
+        "path": [
+          "typography",
+          "normal",
+          "bold"
+        ]
+      }
+    },
+    "large": {
+      "bold": {
         "value": {
-          "fontFamily": "SF Pro Text",
+          "fontFamily": "SF Pro",
           "fontWeight": "Bold",
           "lineHeight": "AUTO",
           "fontSize": 24,
@@ -2472,47 +2455,49 @@
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
           "textDecoration": "$text-decoration.none"
-        }
-      },
-      "name": "splt-large-bold",
-      "attributes": {
-        "category": "Large",
-        "type": "Bold"
-      },
-      "path": [
-        "Large",
-        "Bold"
-      ]
-    }
-  },
-  "Small": {
-    "Bold": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Bold",
-        "lineHeight": 14,
-        "fontSize": 14,
-        "letterSpacing": -0.41,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
-      },
-      "type": "typography",
-      "rawValue": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.bold",
-        "lineHeight": "$line-height.200",
-        "fontSize": "$font-size.200",
-        "letterSpacing": "$letter-spacing.0",
-        "paragraphSpacing": "$paragraph-spacing.0",
-        "textCase": "$text-case.none",
-        "textDecoration": "$text-decoration.none"
-      },
-      "filePath": "src/transformed/core.json",
-      "isSource": true,
-      "original": {
+        },
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontWeight": "Bold",
+            "lineHeight": "AUTO",
+            "fontSize": 24,
+            "letterSpacing": "-4%",
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": {
+            "fontFamily": "$font-family.primary",
+            "fontWeight": "$font-weight.bold",
+            "lineHeight": "$line-height.auto",
+            "fontSize": "$font-size.400",
+            "letterSpacing": "$letter-spacing.1",
+            "paragraphSpacing": "$paragraph-spacing.0",
+            "textCase": "$text-case.none",
+            "textDecoration": "$text-decoration.none"
+          }
+        },
+        "name": "splt-typography-large-bold",
+        "attributes": {
+          "category": "typography",
+          "type": "large",
+          "item": "bold"
+        },
+        "path": [
+          "typography",
+          "large",
+          "bold"
+        ]
+      }
+    },
+    "small": {
+      "bold": {
         "value": {
-          "fontFamily": "SF Pro Text",
+          "fontFamily": "SF Pro",
           "fontWeight": "Bold",
           "lineHeight": 14,
           "fontSize": 14,
@@ -2531,45 +2516,47 @@
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
           "textDecoration": "$text-decoration.none"
-        }
+        },
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontWeight": "Bold",
+            "lineHeight": 14,
+            "fontSize": 14,
+            "letterSpacing": -0.41,
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": {
+            "fontFamily": "$font-family.primary",
+            "fontWeight": "$font-weight.bold",
+            "lineHeight": "$line-height.200",
+            "fontSize": "$font-size.200",
+            "letterSpacing": "$letter-spacing.0",
+            "paragraphSpacing": "$paragraph-spacing.0",
+            "textCase": "$text-case.none",
+            "textDecoration": "$text-decoration.none"
+          }
+        },
+        "name": "splt-typography-small-bold",
+        "attributes": {
+          "category": "typography",
+          "type": "small",
+          "item": "bold"
+        },
+        "path": [
+          "typography",
+          "small",
+          "bold"
+        ]
       },
-      "name": "splt-small-bold",
-      "attributes": {
-        "category": "Small",
-        "type": "Bold"
-      },
-      "path": [
-        "Small",
-        "Bold"
-      ]
-    },
-    "Medium": {
-      "value": {
-        "fontFamily": "SF Pro Text",
-        "fontWeight": "Medium",
-        "lineHeight": "AUTO",
-        "fontSize": 14,
-        "letterSpacing": -0.41,
-        "paragraphSpacing": 0,
-        "textCase": "none",
-        "textDecoration": "none"
-      },
-      "type": "typography",
-      "rawValue": {
-        "fontFamily": "$font-family.primary",
-        "fontWeight": "$font-weight.medium",
-        "lineHeight": "$line-height.auto",
-        "fontSize": "$font-size.200",
-        "letterSpacing": "$letter-spacing.0",
-        "paragraphSpacing": "$paragraph-spacing.0",
-        "textCase": "$text-case.none",
-        "textDecoration": "$text-decoration.none"
-      },
-      "filePath": "src/transformed/core.json",
-      "isSource": true,
-      "original": {
+      "medium": {
         "value": {
-          "fontFamily": "SF Pro Text",
+          "fontFamily": "SF Pro",
           "fontWeight": "Medium",
           "lineHeight": "AUTO",
           "fontSize": 14,
@@ -2588,17 +2575,44 @@
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
           "textDecoration": "$text-decoration.none"
-        }
-      },
-      "name": "splt-small-medium",
-      "attributes": {
-        "category": "Small",
-        "type": "Medium"
-      },
-      "path": [
-        "Small",
-        "Medium"
-      ]
+        },
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontWeight": "Medium",
+            "lineHeight": "AUTO",
+            "fontSize": 14,
+            "letterSpacing": -0.41,
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": {
+            "fontFamily": "$font-family.primary",
+            "fontWeight": "$font-weight.medium",
+            "lineHeight": "$line-height.auto",
+            "fontSize": "$font-size.200",
+            "letterSpacing": "$letter-spacing.0",
+            "paragraphSpacing": "$paragraph-spacing.0",
+            "textCase": "$text-case.none",
+            "textDecoration": "$text-decoration.none"
+          }
+        },
+        "name": "splt-typography-small-medium",
+        "attributes": {
+          "category": "typography",
+          "type": "small",
+          "item": "medium"
+        },
+        "path": [
+          "typography",
+          "small",
+          "medium"
+        ]
+      }
     }
   },
   "text-case": {

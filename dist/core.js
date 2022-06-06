@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 02:21:03 GMT
+ * Generated on Mon, 06 Jun 2022 04:03:59 GMT
  */
 
 export const colorNeutral100 = "#1f1f1f";
@@ -77,7 +77,7 @@ export const colorGreen1100 = "#81e95e";
 export const colorGreen1200 = "#8af465";
 export const colorBasicWhite = "#ffffff";
 export const colorBasicBlack = "#000000";
-export const fontFamilyPrimary = "SF Pro Text";
+export const fontFamilyPrimary = "SF Pro";
 export const lineHeight100 = 12;
 export const lineHeight200 = 14;
 export const lineHeight300 = 16;
@@ -95,12 +95,12 @@ export const letterSpacing0 = -0.41;
 export const letterSpacing1 = "-4%";
 export const letterSpacing2 = -0.41;
 export const paragraphSpacing0 = 0;
-export const extraSmallMedium = {"fontFamily":"SF Pro Text","fontWeight":"Medium","lineHeight":"125%","fontSize":12,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
-export const extraSmallBold = {"fontFamily":"SF Pro Text","fontWeight":"Bold","lineHeight":"AUTO","fontSize":12,"letterSpacing":"-4%","paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
-export const normalBold = {"fontFamily":"SF Pro Text","fontWeight":"Bold","lineHeight":16,"fontSize":16,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
-export const largeBold = {"fontFamily":"SF Pro Text","fontWeight":"Bold","lineHeight":"AUTO","fontSize":24,"letterSpacing":"-4%","paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
-export const smallBold = {"fontFamily":"SF Pro Text","fontWeight":"Bold","lineHeight":14,"fontSize":14,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
-export const smallMedium = {"fontFamily":"SF Pro Text","fontWeight":"Medium","lineHeight":"AUTO","fontSize":14,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographyExtraSmallMedium = {"fontFamily":"SF Pro","fontWeight":"Medium","lineHeight":"125%","fontSize":12,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographyExtraSmallBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":"AUTO","fontSize":12,"letterSpacing":"-4%","paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographyNormalBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":20,"fontSize":16,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographyLargeBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":"AUTO","fontSize":24,"letterSpacing":"-4%","paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographySmallBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":14,"fontSize":14,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographySmallMedium = {"fontFamily":"SF Pro","fontWeight":"Medium","lineHeight":"AUTO","fontSize":14,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
 export const textCaseNone = "none";
 export const textDecorationNone = "none";
 export const sizing0 = 0;

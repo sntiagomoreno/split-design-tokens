@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 02:21:03 GMT
+ * Generated on Mon, 06 Jun 2022 04:03:59 GMT
  */
 
 export const colorNeutral100 : string;
@@ -95,12 +95,12 @@ export const letterSpacing0 : number;
 export const letterSpacing1 : string;
 export const letterSpacing2 : number;
 export const paragraphSpacing0 : number;
-export const extraSmallMedium : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
-export const extraSmallBold : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: string, paragraphSpacing: number, textCase: string, textDecoration: string };
-export const normalBold : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
-export const largeBold : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: string, paragraphSpacing: number, textCase: string, textDecoration: string };
-export const smallBold : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
-export const smallMedium : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographyExtraSmallMedium : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographyExtraSmallBold : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: string, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographyNormalBold : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographyLargeBold : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: string, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographySmallBold : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographySmallMedium : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
 export const textCaseNone : string;
 export const textDecorationNone : string;
 export const sizing0 : number;

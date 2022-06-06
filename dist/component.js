@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 02:21:03 GMT
+ * Generated on Mon, 06 Jun 2022 04:03:59 GMT
  */
 
 export const buttonCtaPrimaryBackgroundColor = "#ff8876";
@@ -18,4 +18,4 @@ export const buttonCtaPaddingHorizontal = 20;
 export const buttonCtaPaddingVertical = 12;
 export const buttonCtaGapLabelIcon = 2;
 export const buttonCtaRadius = 999;
-export const buttonCtaTypography = {"fontFamily":"SF Pro Text","fontWeight":"Bold","lineHeight":16,"fontSize":16,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const buttonCtaTypography = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":20,"fontSize":16,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};

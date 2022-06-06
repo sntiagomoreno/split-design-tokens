@@ -1,6 +1,6 @@
 {
   "name": "@santiagomoreno/split-design-tokens",
-  "version": "1.1.1",
+  "version": "1.1.2",
   "description": "Design Tokens for Split Design System",
   "main": "index.js",
   "files": [
@@ -18,7 +18,7 @@
     "build-tokens": "token-transformer src/tokens.json src/transformed/all.json",
     "build-dark": "token-transformer src/tokens.json src/transformed/theme-dark.json core,theme.dark core --preserveRawValue --throwErrorWhenNotResolved",
     "build-semantic": "token-transformer src/tokens.json src/transformed/semantic.json core,semantic core --preserveRawValue --throwErrorWhenNotResolved",
-    "build-component": "token-transformer src/tokens.json src/transformed/component.json core,theme.dark,component core,theme.dark --preserveRawValue --throwErrorWhenNotResolved",
+    "build-component": "token-transformer src/tokens.json src/transformed/component.json core,theme.dark,component core,theme.dark --throwErrorWhenNotResolved",
     "build": "yarn build-core && yarn build-dark && yarn build-semantic && yarn build-component && node ./config/index.config",
     "clean": "rm -rf dist",
     "prepare": "yarn clean && yarn build",

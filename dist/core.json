@@ -90,7 +90,7 @@
     }
   },
   "font-family": {
-    "primary": "SF Pro Text"
+    "primary": "SF Pro"
   },
   "line-height": {
     "100": 12,
@@ -119,72 +119,74 @@
   "paragraph-spacing": {
     "0": 0
   },
-  "ExtraSmall": {
-    "Medium": {
-      "fontFamily": "SF Pro Text",
-      "fontWeight": "Medium",
-      "lineHeight": "125%",
-      "fontSize": 12,
-      "letterSpacing": -0.41,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+  "typography": {
+    "extra-small": {
+      "medium": {
+        "fontFamily": "SF Pro",
+        "fontWeight": "Medium",
+        "lineHeight": "125%",
+        "fontSize": 12,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "bold": {
+        "fontFamily": "SF Pro",
+        "fontWeight": "Bold",
+        "lineHeight": "AUTO",
+        "fontSize": 12,
+        "letterSpacing": "-4%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      }
     },
-    "Bold": {
-      "fontFamily": "SF Pro Text",
-      "fontWeight": "Bold",
-      "lineHeight": "AUTO",
-      "fontSize": 12,
-      "letterSpacing": "-4%",
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
-    }
-  },
-  "Normal": {
-    "Bold": {
-      "fontFamily": "SF Pro Text",
-      "fontWeight": "Bold",
-      "lineHeight": 16,
-      "fontSize": 16,
-      "letterSpacing": -0.41,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
-    }
-  },
-  "Large": {
-    "Bold": {
-      "fontFamily": "SF Pro Text",
-      "fontWeight": "Bold",
-      "lineHeight": "AUTO",
-      "fontSize": 24,
-      "letterSpacing": "-4%",
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
-    }
-  },
-  "Small": {
-    "Bold": {
-      "fontFamily": "SF Pro Text",
-      "fontWeight": "Bold",
-      "lineHeight": 14,
-      "fontSize": 14,
-      "letterSpacing": -0.41,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+    "normal": {
+      "bold": {
+        "fontFamily": "SF Pro",
+        "fontWeight": "Bold",
+        "lineHeight": 20,
+        "fontSize": 16,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      }
     },
-    "Medium": {
-      "fontFamily": "SF Pro Text",
-      "fontWeight": "Medium",
-      "lineHeight": "AUTO",
-      "fontSize": 14,
-      "letterSpacing": -0.41,
-      "paragraphSpacing": 0,
-      "textCase": "none",
-      "textDecoration": "none"
+    "large": {
+      "bold": {
+        "fontFamily": "SF Pro",
+        "fontWeight": "Bold",
+        "lineHeight": "AUTO",
+        "fontSize": 24,
+        "letterSpacing": "-4%",
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      }
+    },
+    "small": {
+      "bold": {
+        "fontFamily": "SF Pro",
+        "fontWeight": "Bold",
+        "lineHeight": 14,
+        "fontSize": 14,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      },
+      "medium": {
+        "fontFamily": "SF Pro",
+        "fontWeight": "Medium",
+        "lineHeight": "AUTO",
+        "fontSize": 14,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      }
     }
   },
   "text-case": {
