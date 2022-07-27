@@ -1,9 +1,14 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 04:03:59 GMT
+ * Generated on Wed, 27 Jul 2022 20:56:26 GMT
  */
 
 :root {
+  --splt-opacity-100: 1;
+  --splt-opacity-75: 0.75;
+  --splt-opacity-50: 0.5;
+  --splt-opacity-25: 0.25;
+  --splt-opacity-0: 0;
   --splt-radius-circle: 50%;
   --splt-radius-pill: 999;
   --splt-radius-200: 16;
@@ -40,6 +45,7 @@
   --splt-typography-small-medium: Medium 14px/initial "SF Pro", sans-serif;
   --splt-typography-small-bold: Bold 14px/14px "SF Pro", sans-serif;
   --splt-typography-large-bold: Bold 24px/initial "SF Pro", sans-serif;
+  --splt-typography-medium-bold: Bold 18px/24px "SF Pro", sans-serif;
   --splt-typography-normal-bold: Bold 16px/20px "SF Pro", sans-serif;
   --splt-typography-extra-small-bold: Bold 12px/initial "SF Pro", sans-serif;
   --splt-typography-extra-small-medium: Medium 12px/125% "SF Pro", sans-serif;
@@ -47,15 +53,17 @@
   --splt-letter-spacing-2: -0.41;
   --splt-letter-spacing-1: -4%;
   --splt-letter-spacing-0: -0.41;
-  --splt-font-size-400: 24;
-  --splt-font-size-300: 16;
-  --splt-font-size-200: 14;
+  --splt-font-size-300: 24;
+  --splt-font-size-225: 18;
+  --splt-font-size-200: 16;
+  --splt-font-size-125: 14;
   --splt-font-size-100: 12;
   --splt-font-weight-bold: Bold;
   --splt-font-weight-medium: Medium;
   --splt-line-height-auto: AUTO;
   --splt-line-height-dynamic: 125%;
   --splt-line-height-400: 24;
+  --splt-line-height-375: 22;
   --splt-line-height-350: 20;
   --splt-line-height-300: 16;
   --splt-line-height-200: 14;

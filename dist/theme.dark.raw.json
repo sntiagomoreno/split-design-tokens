@@ -2,17 +2,17 @@
   "color": {
     "brand": {
       "primary": {
-        "value": "#ff8876",
+        "value": "#78dc56",
         "type": "color",
         "description": "Brand color",
-        "rawValue": "$color.hibiscus.800",
+        "rawValue": "$color.green.1000",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#ff8876",
+          "value": "#78dc56",
           "type": "color",
           "description": "Brand color",
-          "rawValue": "$color.hibiscus.800"
+          "rawValue": "$color.green.1000"
         },
         "name": "splt-color-brand-primary",
         "attributes": {
@@ -99,14 +99,37 @@
           "tertiary"
         ]
       },
+      "bold": {
+        "value": "#898989",
+        "type": "color",
+        "rawValue": "$color.neutral.600",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#898989",
+          "type": "color",
+          "rawValue": "$color.neutral.600"
+        },
+        "name": "splt-color-surface-bold",
+        "attributes": {
+          "category": "color",
+          "type": "surface",
+          "item": "bold"
+        },
+        "path": [
+          "color",
+          "surface",
+          "bold"
+        ]
+      },
       "brand": {
-        "value": "#ff8876",
+        "value": "#78dc56",
         "type": "color",
         "rawValue": "$color.brand.primary",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#ff8876",
+          "value": "#78dc56",
           "type": "color",
           "rawValue": "$color.brand.primary"
         },
@@ -120,6 +143,29 @@
           "color",
           "surface",
           "brand"
+        ]
+      },
+      "inverted": {
+        "value": "#ffffff",
+        "type": "color",
+        "rawValue": "$color.basic.white",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#ffffff",
+          "type": "color",
+          "rawValue": "$color.basic.white"
+        },
+        "name": "splt-color-surface-inverted",
+        "attributes": {
+          "category": "color",
+          "type": "surface",
+          "item": "inverted"
+        },
+        "path": [
+          "color",
+          "surface",
+          "inverted"
         ]
       },
       "negative": {
@@ -149,15 +195,15 @@
           ]
         },
         "weak": {
-          "value": "#3f0d0c",
+          "value": "#361711",
           "type": "color",
-          "rawValue": "$color.red.100",
+          "rawValue": "$color.hibiscus.100",
           "filePath": "src/transformed/theme-dark.json",
           "isSource": true,
           "original": {
-            "value": "#3f0d0c",
+            "value": "#361711",
             "type": "color",
-            "rawValue": "$color.red.100"
+            "rawValue": "$color.hibiscus.100"
           },
           "name": "splt-color-surface-negative-weak",
           "attributes": {
@@ -201,15 +247,15 @@
           ]
         },
         "weak": {
-          "value": "#234318",
+          "value": "#192f11",
           "type": "color",
-          "rawValue": "$color.green.300",
+          "rawValue": "$color.green.200",
           "filePath": "src/transformed/theme-dark.json",
           "isSource": true,
           "original": {
-            "value": "#234318",
+            "value": "#192f11",
             "type": "color",
-            "rawValue": "$color.green.300"
+            "rawValue": "$color.green.200"
           },
           "name": "splt-color-surface-positive-weak",
           "attributes": {
@@ -300,13 +346,13 @@
         ]
       },
       "strong": {
-        "value": "#ff8876",
+        "value": "#78dc56",
         "type": "color",
         "rawValue": "$color.surface.brand",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#ff8876",
+          "value": "#78dc56",
           "type": "color",
           "rawValue": "$color.surface.brand"
         },
@@ -344,6 +390,29 @@
           "text",
           "on-brand"
         ]
+      },
+      "placeholder": {
+        "value": "#727272",
+        "type": "color",
+        "rawValue": "$color.neutral.500",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#727272",
+          "type": "color",
+          "rawValue": "$color.neutral.500"
+        },
+        "name": "splt-color-text-placeholder",
+        "attributes": {
+          "category": "color",
+          "type": "text",
+          "item": "placeholder"
+        },
+        "path": [
+          "color",
+          "text",
+          "placeholder"
+        ]
       }
     },
     "icon": {
@@ -371,13 +440,13 @@
         ]
       },
       "brand": {
-        "value": "#ff8876",
+        "value": "#78dc56",
         "type": "color",
         "rawValue": "$color.brand.primary",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#ff8876",
+          "value": "#78dc56",
           "type": "color",
           "rawValue": "$color.brand.primary"
         },
@@ -437,6 +506,31 @@
           "color",
           "icon",
           "tertiary"
+        ]
+      }
+    },
+    "border": {
+      "subtle": {
+        "value": "#292929",
+        "type": "color",
+        "rawValue": "$color.neutral.200",
+        "filePath": "src/transformed/theme-dark.json",
+        "isSource": true,
+        "original": {
+          "value": "#292929",
+          "type": "color",
+          "rawValue": "$color.neutral.200"
+        },
+        "name": "splt-color-border-subtle",
+        "attributes": {
+          "category": "color",
+          "type": "border",
+          "item": "subtle"
+        },
+        "path": [
+          "color",
+          "border",
+          "subtle"
         ]
       }
     }

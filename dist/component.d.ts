@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 04:03:59 GMT
+ * Generated on Wed, 27 Jul 2022 20:56:26 GMT
  */
 
 export const buttonCtaPrimaryBackgroundColor : string;

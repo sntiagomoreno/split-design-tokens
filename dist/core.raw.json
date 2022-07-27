@@ -1909,13 +1909,13 @@
     "200": {
       "value": 14,
       "type": "lineHeights",
-      "rawValue": "$font-size.200",
+      "rawValue": 14,
       "filePath": "src/transformed/core.json",
       "isSource": true,
       "original": {
         "value": 14,
         "type": "lineHeights",
-        "rawValue": "$font-size.200"
+        "rawValue": "{font-size.125}"
       },
       "name": "splt-line-height-200",
       "attributes": {
@@ -1930,13 +1930,13 @@
     "300": {
       "value": 16,
       "type": "lineHeights",
-      "rawValue": "$font-size.300",
+      "rawValue": 16,
       "filePath": "src/transformed/core.json",
       "isSource": true,
       "original": {
         "value": 16,
         "type": "lineHeights",
-        "rawValue": "$font-size.300"
+        "rawValue": "{font-size.200}"
       },
       "name": "splt-line-height-300",
       "attributes": {
@@ -1969,16 +1969,37 @@
         "350"
       ]
     },
+    "375": {
+      "value": 22,
+      "type": "lineHeights",
+      "rawValue": "22",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 22,
+        "type": "lineHeights",
+        "rawValue": "22"
+      },
+      "name": "splt-line-height-375",
+      "attributes": {
+        "category": "line-height",
+        "type": "375"
+      },
+      "path": [
+        "line-height",
+        "375"
+      ]
+    },
     "400": {
       "value": 24,
       "type": "lineHeights",
-      "rawValue": "$font-size.400",
+      "rawValue": 24,
       "filePath": "src/transformed/core.json",
       "isSource": true,
       "original": {
         "value": 24,
         "type": "lineHeights",
-        "rawValue": "$font-size.400"
+        "rawValue": "{font-size.300}"
       },
       "name": "splt-line-height-400",
       "attributes": {
@@ -2099,7 +2120,7 @@
         "100"
       ]
     },
-    "200": {
+    "125": {
       "value": 14,
       "type": "fontSizes",
       "rawValue": "14",
@@ -2109,6 +2130,27 @@
         "value": 14,
         "type": "fontSizes",
         "rawValue": "14"
+      },
+      "name": "splt-font-size-125",
+      "attributes": {
+        "category": "font-size",
+        "type": "125"
+      },
+      "path": [
+        "font-size",
+        "125"
+      ]
+    },
+    "200": {
+      "value": 16,
+      "type": "fontSizes",
+      "rawValue": "16",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "fontSizes",
+        "rawValue": "16"
       },
       "name": "splt-font-size-200",
       "attributes": {
@@ -2120,28 +2162,28 @@
         "200"
       ]
     },
-    "300": {
-      "value": 16,
+    "225": {
+      "value": 18,
       "type": "fontSizes",
-      "rawValue": "16",
+      "rawValue": "18",
       "filePath": "src/transformed/core.json",
       "isSource": true,
       "original": {
-        "value": 16,
+        "value": 18,
         "type": "fontSizes",
-        "rawValue": "16"
+        "rawValue": "18"
       },
-      "name": "splt-font-size-300",
+      "name": "splt-font-size-225",
       "attributes": {
         "category": "font-size",
-        "type": "300"
+        "type": "225"
       },
       "path": [
         "font-size",
-        "300"
+        "225"
       ]
     },
-    "400": {
+    "300": {
       "value": 24,
       "type": "fontSizes",
       "rawValue": "24",
@@ -2152,14 +2194,14 @@
         "type": "fontSizes",
         "rawValue": "24"
       },
-      "name": "splt-font-size-400",
+      "name": "splt-font-size-300",
       "attributes": {
         "category": "font-size",
-        "type": "400"
+        "type": "300"
       },
       "path": [
         "font-size",
-        "400"
+        "300"
       ]
     }
   },
@@ -2389,7 +2431,7 @@
           "fontFamily": "$font-family.primary",
           "fontWeight": "$font-weight.bold",
           "lineHeight": "$line-height.350",
-          "fontSize": "$font-size.300",
+          "fontSize": 16,
           "letterSpacing": "$letter-spacing.0",
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
@@ -2413,7 +2455,7 @@
             "fontFamily": "$font-family.primary",
             "fontWeight": "$font-weight.bold",
             "lineHeight": "$line-height.350",
-            "fontSize": "$font-size.300",
+            "fontSize": "{font-size.200}",
             "letterSpacing": "$letter-spacing.0",
             "paragraphSpacing": "$paragraph-spacing.0",
             "textCase": "$text-case.none",
@@ -2433,6 +2475,67 @@
         ]
       }
     },
+    "medium": {
+      "bold": {
+        "value": {
+          "fontFamily": "SF Pro",
+          "fontWeight": "Bold",
+          "lineHeight": 24,
+          "fontSize": 18,
+          "letterSpacing": -0.41,
+          "paragraphSpacing": 0,
+          "textCase": "none",
+          "textDecoration": "none"
+        },
+        "type": "typography",
+        "rawValue": {
+          "fontFamily": "$font-family.primary",
+          "fontWeight": "$font-weight.bold",
+          "lineHeight": "$line-height.400",
+          "fontSize": 18,
+          "letterSpacing": "$letter-spacing.0",
+          "paragraphSpacing": "$paragraph-spacing.0",
+          "textCase": "$text-case.none",
+          "textDecoration": "$text-decoration.none"
+        },
+        "filePath": "src/transformed/core.json",
+        "isSource": true,
+        "original": {
+          "value": {
+            "fontFamily": "SF Pro",
+            "fontWeight": "Bold",
+            "lineHeight": 24,
+            "fontSize": 18,
+            "letterSpacing": -0.41,
+            "paragraphSpacing": 0,
+            "textCase": "none",
+            "textDecoration": "none"
+          },
+          "type": "typography",
+          "rawValue": {
+            "fontFamily": "$font-family.primary",
+            "fontWeight": "$font-weight.bold",
+            "lineHeight": "$line-height.400",
+            "fontSize": "{font-size.225}",
+            "letterSpacing": "$letter-spacing.0",
+            "paragraphSpacing": "$paragraph-spacing.0",
+            "textCase": "$text-case.none",
+            "textDecoration": "$text-decoration.none"
+          }
+        },
+        "name": "splt-typography-medium-bold",
+        "attributes": {
+          "category": "typography",
+          "type": "medium",
+          "item": "bold"
+        },
+        "path": [
+          "typography",
+          "medium",
+          "bold"
+        ]
+      }
+    },
     "large": {
       "bold": {
         "value": {
@@ -2440,7 +2543,7 @@
           "fontWeight": "Bold",
           "lineHeight": "AUTO",
           "fontSize": 24,
-          "letterSpacing": "-4%",
+          "letterSpacing": -0.41,
           "paragraphSpacing": 0,
           "textCase": "none",
           "textDecoration": "none"
@@ -2450,8 +2553,8 @@
           "fontFamily": "$font-family.primary",
           "fontWeight": "$font-weight.bold",
           "lineHeight": "$line-height.auto",
-          "fontSize": "$font-size.400",
-          "letterSpacing": "$letter-spacing.1",
+          "fontSize": 24,
+          "letterSpacing": "$letter-spacing.0",
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
           "textDecoration": "$text-decoration.none"
@@ -2464,7 +2567,7 @@
             "fontWeight": "Bold",
             "lineHeight": "AUTO",
             "fontSize": 24,
-            "letterSpacing": "-4%",
+            "letterSpacing": -0.41,
             "paragraphSpacing": 0,
             "textCase": "none",
             "textDecoration": "none"
@@ -2474,8 +2577,8 @@
             "fontFamily": "$font-family.primary",
             "fontWeight": "$font-weight.bold",
             "lineHeight": "$line-height.auto",
-            "fontSize": "$font-size.400",
-            "letterSpacing": "$letter-spacing.1",
+            "fontSize": "{font-size.300}",
+            "letterSpacing": "$letter-spacing.0",
             "paragraphSpacing": "$paragraph-spacing.0",
             "textCase": "$text-case.none",
             "textDecoration": "$text-decoration.none"
@@ -2511,7 +2614,7 @@
           "fontFamily": "$font-family.primary",
           "fontWeight": "$font-weight.bold",
           "lineHeight": "$line-height.200",
-          "fontSize": "$font-size.200",
+          "fontSize": 14,
           "letterSpacing": "$letter-spacing.0",
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
@@ -2535,7 +2638,7 @@
             "fontFamily": "$font-family.primary",
             "fontWeight": "$font-weight.bold",
             "lineHeight": "$line-height.200",
-            "fontSize": "$font-size.200",
+            "fontSize": "{font-size.125}",
             "letterSpacing": "$letter-spacing.0",
             "paragraphSpacing": "$paragraph-spacing.0",
             "textCase": "$text-case.none",
@@ -2570,7 +2673,7 @@
           "fontFamily": "$font-family.primary",
           "fontWeight": "$font-weight.medium",
           "lineHeight": "$line-height.auto",
-          "fontSize": "$font-size.200",
+          "fontSize": 14,
           "letterSpacing": "$letter-spacing.0",
           "paragraphSpacing": "$paragraph-spacing.0",
           "textCase": "$text-case.none",
@@ -2594,7 +2697,7 @@
             "fontFamily": "$font-family.primary",
             "fontWeight": "$font-weight.medium",
             "lineHeight": "$line-height.auto",
-            "fontSize": "$font-size.200",
+            "fontSize": "{font-size.125}",
             "letterSpacing": "$letter-spacing.0",
             "paragraphSpacing": "$paragraph-spacing.0",
             "textCase": "$text-case.none",
@@ -3315,6 +3418,113 @@
       "path": [
         "radius",
         "circle"
+      ]
+    }
+  },
+  "opacity": {
+    "0": {
+      "value": 0,
+      "type": "opacity",
+      "rawValue": "0",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "opacity",
+        "rawValue": "0"
+      },
+      "name": "splt-opacity-0",
+      "attributes": {
+        "category": "opacity",
+        "type": "0"
+      },
+      "path": [
+        "opacity",
+        "0"
+      ]
+    },
+    "25": {
+      "value": 0.25,
+      "type": "opacity",
+      "rawValue": "0.25",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0.25,
+        "type": "opacity",
+        "rawValue": "0.25"
+      },
+      "name": "splt-opacity-25",
+      "attributes": {
+        "category": "opacity",
+        "type": "25"
+      },
+      "path": [
+        "opacity",
+        "25"
+      ]
+    },
+    "50": {
+      "value": 0.5,
+      "type": "opacity",
+      "rawValue": "0.5",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0.5,
+        "type": "opacity",
+        "rawValue": "0.5"
+      },
+      "name": "splt-opacity-50",
+      "attributes": {
+        "category": "opacity",
+        "type": "50"
+      },
+      "path": [
+        "opacity",
+        "50"
+      ]
+    },
+    "75": {
+      "value": 0.75,
+      "type": "opacity",
+      "rawValue": "0.75",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 0.75,
+        "type": "opacity",
+        "rawValue": "0.75"
+      },
+      "name": "splt-opacity-75",
+      "attributes": {
+        "category": "opacity",
+        "type": "75"
+      },
+      "path": [
+        "opacity",
+        "75"
+      ]
+    },
+    "100": {
+      "value": 1,
+      "type": "opacity",
+      "rawValue": "1",
+      "filePath": "src/transformed/core.json",
+      "isSource": true,
+      "original": {
+        "value": 1,
+        "type": "opacity",
+        "rawValue": "1"
+      },
+      "name": "splt-opacity-100",
+      "attributes": {
+        "category": "opacity",
+        "type": "100"
+      },
+      "path": [
+        "opacity",
+        "100"
       ]
     }
   }

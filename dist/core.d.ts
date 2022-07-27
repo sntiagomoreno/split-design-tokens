@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 04:03:59 GMT
+ * Generated on Wed, 27 Jul 2022 20:56:26 GMT
  */
 
 export const colorNeutral100 : string;
@@ -82,15 +82,17 @@ export const lineHeight100 : number;
 export const lineHeight200 : number;
 export const lineHeight300 : number;
 export const lineHeight350 : number;
+export const lineHeight375 : number;
 export const lineHeight400 : number;
 export const lineHeightDynamic : string;
 export const lineHeightAuto : string;
 export const fontWeightMedium : string;
 export const fontWeightBold : string;
 export const fontSize100 : number;
+export const fontSize125 : number;
 export const fontSize200 : number;
+export const fontSize225 : number;
 export const fontSize300 : number;
-export const fontSize400 : number;
 export const letterSpacing0 : number;
 export const letterSpacing1 : string;
 export const letterSpacing2 : number;
@@ -98,7 +100,8 @@ export const paragraphSpacing0 : number;
 export const typographyExtraSmallMedium : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
 export const typographyExtraSmallBold : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: string, paragraphSpacing: number, textCase: string, textDecoration: string };
 export const typographyNormalBold : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
-export const typographyLargeBold : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: string, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographyMediumBold : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
+export const typographyLargeBold : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
 export const typographySmallBold : { fontFamily: string, fontWeight: string, lineHeight: number, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
 export const typographySmallMedium : { fontFamily: string, fontWeight: string, lineHeight: string, fontSize: number, letterSpacing: number, paragraphSpacing: number, textCase: string, textDecoration: string };
 export const textCaseNone : string;
@@ -134,3 +137,8 @@ export const radius150 : number;
 export const radius200 : number;
 export const radiusPill : number;
 export const radiusCircle : string;
+export const opacity0 : number;
+export const opacity25 : number;
+export const opacity50 : number;
+export const opacity75 : number;
+export const opacity100 : number;

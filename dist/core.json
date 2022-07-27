@@ -97,6 +97,7 @@
     "200": 14,
     "300": 16,
     "350": 20,
+    "375": 22,
     "400": 24,
     "dynamic": "125%",
     "auto": "AUTO"
@@ -107,9 +108,10 @@
   },
   "font-size": {
     "100": 12,
-    "200": 14,
-    "300": 16,
-    "400": 24
+    "125": 14,
+    "200": 16,
+    "225": 18,
+    "300": 24
   },
   "letter-spacing": {
     "0": -0.41,
@@ -154,13 +156,25 @@
         "textDecoration": "none"
       }
     },
+    "medium": {
+      "bold": {
+        "fontFamily": "SF Pro",
+        "fontWeight": "Bold",
+        "lineHeight": 24,
+        "fontSize": 18,
+        "letterSpacing": -0.41,
+        "paragraphSpacing": 0,
+        "textCase": "none",
+        "textDecoration": "none"
+      }
+    },
     "large": {
       "bold": {
         "fontFamily": "SF Pro",
         "fontWeight": "Bold",
         "lineHeight": "AUTO",
         "fontSize": 24,
-        "letterSpacing": "-4%",
+        "letterSpacing": -0.41,
         "paragraphSpacing": 0,
         "textCase": "none",
         "textDecoration": "none"
@@ -231,5 +245,12 @@
     "200": 16,
     "pill": 999,
     "circle": "50%"
+  },
+  "opacity": {
+    "0": 0,
+    "25": 0.25,
+    "50": 0.5,
+    "75": 0.75,
+    "100": 1
   }
 }

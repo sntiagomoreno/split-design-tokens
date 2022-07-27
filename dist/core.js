@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 04:03:59 GMT
+ * Generated on Wed, 27 Jul 2022 20:56:26 GMT
  */
 
 export const colorNeutral100 = "#1f1f1f";
@@ -82,15 +82,17 @@ export const lineHeight100 = 12;
 export const lineHeight200 = 14;
 export const lineHeight300 = 16;
 export const lineHeight350 = 20;
+export const lineHeight375 = 22;
 export const lineHeight400 = 24;
 export const lineHeightDynamic = "125%";
 export const lineHeightAuto = "AUTO";
 export const fontWeightMedium = "Medium";
 export const fontWeightBold = "Bold";
 export const fontSize100 = 12;
-export const fontSize200 = 14;
-export const fontSize300 = 16;
-export const fontSize400 = 24;
+export const fontSize125 = 14;
+export const fontSize200 = 16;
+export const fontSize225 = 18;
+export const fontSize300 = 24;
 export const letterSpacing0 = -0.41;
 export const letterSpacing1 = "-4%";
 export const letterSpacing2 = -0.41;
@@ -98,7 +100,8 @@ export const paragraphSpacing0 = 0;
 export const typographyExtraSmallMedium = {"fontFamily":"SF Pro","fontWeight":"Medium","lineHeight":"125%","fontSize":12,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
 export const typographyExtraSmallBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":"AUTO","fontSize":12,"letterSpacing":"-4%","paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
 export const typographyNormalBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":20,"fontSize":16,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
-export const typographyLargeBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":"AUTO","fontSize":24,"letterSpacing":"-4%","paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographyMediumBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":24,"fontSize":18,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
+export const typographyLargeBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":"AUTO","fontSize":24,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
 export const typographySmallBold = {"fontFamily":"SF Pro","fontWeight":"Bold","lineHeight":14,"fontSize":14,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
 export const typographySmallMedium = {"fontFamily":"SF Pro","fontWeight":"Medium","lineHeight":"AUTO","fontSize":14,"letterSpacing":-0.41,"paragraphSpacing":0,"textCase":"none","textDecoration":"none"};
 export const textCaseNone = "none";
@@ -134,3 +137,8 @@ export const radius150 = 12;
 export const radius200 = 16;
 export const radiusPill = 999;
 export const radiusCircle = "50%";
+export const opacity0 = 0;
+export const opacity25 = 0.25;
+export const opacity50 = 0.5;
+export const opacity75 = 0.75;
+export const opacity100 = 1;

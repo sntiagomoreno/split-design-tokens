@@ -1,25 +1,29 @@
 /**
  * Do not edit directly
- * Generated on Mon, 06 Jun 2022 04:03:59 GMT
+ * Generated on Wed, 27 Jul 2022 20:56:26 GMT
  */
 
 :root {
+  --splt-color-border-subtle: #292929;
   --splt-color-icon-tertiary: #b8b8b8;
   --splt-color-icon-secondary: #461d17;
-  --splt-color-icon-brand: #ff8876;
+  --splt-color-icon-brand: #78dc56;
   --splt-color-icon-default: #ffffff;
+  --splt-color-text-placeholder: #727272;
   --splt-color-text-on-brand: #461d17;
-  --splt-color-text-strong: #ff8876;
+  --splt-color-text-strong: #78dc56;
   --splt-color-text-link: #ff9f8f;
   --splt-color-text-secondary: #b8b8b8;
   --splt-color-text-primary: #ffffff;
-  --splt-color-surface-positive-weak: #234318;
+  --splt-color-surface-positive-weak: #192f11;
   --splt-color-surface-positive-default: #78dc56;
-  --splt-color-surface-negative-weak: #3f0d0c;
+  --splt-color-surface-negative-weak: #361711;
   --splt-color-surface-negative-default: #ed5352;
-  --splt-color-surface-brand: #ff8876;
+  --splt-color-surface-inverted: #ffffff;
+  --splt-color-surface-brand: #78dc56;
+  --splt-color-surface-bold: #898989;
   --splt-color-surface-tertiary: #3b3b3b;
   --splt-color-surface-secondary: #292929;
   --splt-color-surface-primary: #1f1f1f;
-  --splt-color-brand-primary: #ff8876;
+  --splt-color-brand-primary: #78dc56;
 }

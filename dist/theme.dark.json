@@ -1,34 +1,40 @@
 {
   "color": {
     "brand": {
-      "primary": "#ff8876"
+      "primary": "#78dc56"
     },
     "surface": {
       "primary": "#1f1f1f",
       "secondary": "#292929",
       "tertiary": "#3b3b3b",
-      "brand": "#ff8876",
+      "bold": "#898989",
+      "brand": "#78dc56",
+      "inverted": "#ffffff",
       "negative": {
         "default": "#ed5352",
-        "weak": "#3f0d0c"
+        "weak": "#361711"
       },
       "positive": {
         "default": "#78dc56",
-        "weak": "#234318"
+        "weak": "#192f11"
       }
     },
     "text": {
       "primary": "#ffffff",
       "secondary": "#b8b8b8",
       "link": "#ff9f8f",
-      "strong": "#ff8876",
-      "on-brand": "#461d17"
+      "strong": "#78dc56",
+      "on-brand": "#461d17",
+      "placeholder": "#727272"
     },
     "icon": {
       "default": "#ffffff",
-      "brand": "#ff8876",
+      "brand": "#78dc56",
       "secondary": "#461d17",
       "tertiary": "#b8b8b8"
+    },
+    "border": {
+      "subtle": "#292929"
     }
   }
 }
