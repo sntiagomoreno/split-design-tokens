@@ -1,0 +1,371 @@
+{
+  "opacity": {
+    "state": {
+      "disabled": {
+        "value": 0.25,
+        "type": "opacity",
+        "rawValue": "$opacity.25",
+        "filePath": "src/transformed/semantic.json",
+        "isSource": true,
+        "original": {
+          "value": 0.25,
+          "type": "opacity",
+          "rawValue": "$opacity.25"
+        },
+        "name": "splt-opacity-state-disabled",
+        "attributes": {
+          "category": "opacity",
+          "type": "state",
+          "item": "disabled"
+        },
+        "path": [
+          "opacity",
+          "state",
+          "disabled"
+        ]
+      },
+      "pressed": {
+        "value": 0.75,
+        "type": "opacity",
+        "rawValue": "$opacity.75",
+        "filePath": "src/transformed/semantic.json",
+        "isSource": true,
+        "original": {
+          "value": 0.75,
+          "type": "opacity",
+          "rawValue": "$opacity.75"
+        },
+        "name": "splt-opacity-state-pressed",
+        "attributes": {
+          "category": "opacity",
+          "type": "state",
+          "item": "pressed"
+        },
+        "path": [
+          "opacity",
+          "state",
+          "pressed"
+        ]
+      }
+    }
+  },
+  "spacing": {
+    "none": {
+      "value": 0,
+      "type": "spacing",
+      "rawValue": "$spacing.0",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "spacing",
+        "rawValue": "$spacing.0"
+      },
+      "name": "splt-spacing-none",
+      "attributes": {
+        "category": "spacing",
+        "type": "none"
+      },
+      "path": [
+        "spacing",
+        "none"
+      ]
+    },
+    "0-5x": {
+      "value": 2,
+      "type": "spacing",
+      "rawValue": "$spacing.25",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 2,
+        "type": "spacing",
+        "rawValue": "$spacing.25"
+      },
+      "name": "splt-spacing-0-5x",
+      "attributes": {
+        "category": "spacing",
+        "type": "0-5x"
+      },
+      "path": [
+        "spacing",
+        "0-5x"
+      ]
+    },
+    "1x": {
+      "value": 4,
+      "type": "spacing",
+      "rawValue": "$spacing.50",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 4,
+        "type": "spacing",
+        "rawValue": "$spacing.50"
+      },
+      "name": "splt-spacing-1x",
+      "attributes": {
+        "category": "spacing",
+        "type": "1x"
+      },
+      "path": [
+        "spacing",
+        "1x"
+      ]
+    },
+    "2x": {
+      "value": 8,
+      "type": "spacing",
+      "rawValue": "$spacing.100",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 8,
+        "type": "spacing",
+        "rawValue": "$spacing.100"
+      },
+      "name": "splt-spacing-2x",
+      "attributes": {
+        "category": "spacing",
+        "type": "2x"
+      },
+      "path": [
+        "spacing",
+        "2x"
+      ]
+    },
+    "3x": {
+      "value": 12,
+      "type": "spacing",
+      "rawValue": "$spacing.150",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 12,
+        "type": "spacing",
+        "rawValue": "$spacing.150"
+      },
+      "name": "splt-spacing-3x",
+      "attributes": {
+        "category": "spacing",
+        "type": "3x"
+      },
+      "path": [
+        "spacing",
+        "3x"
+      ]
+    },
+    "4x": {
+      "value": 16,
+      "type": "spacing",
+      "rawValue": "$spacing.200",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "spacing",
+        "rawValue": "$spacing.200"
+      },
+      "name": "splt-spacing-4x",
+      "attributes": {
+        "category": "spacing",
+        "type": "4x"
+      },
+      "path": [
+        "spacing",
+        "4x"
+      ]
+    },
+    "5x": {
+      "value": 20,
+      "type": "spacing",
+      "rawValue": "$spacing.250",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 20,
+        "type": "spacing",
+        "rawValue": "$spacing.250"
+      },
+      "name": "splt-spacing-5x",
+      "attributes": {
+        "category": "spacing",
+        "type": "5x"
+      },
+      "path": [
+        "spacing",
+        "5x"
+      ]
+    },
+    "6x": {
+      "value": 24,
+      "type": "spacing",
+      "rawValue": "$spacing.300",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 24,
+        "type": "spacing",
+        "rawValue": "$spacing.300"
+      },
+      "name": "splt-spacing-6x",
+      "attributes": {
+        "category": "spacing",
+        "type": "6x"
+      },
+      "path": [
+        "spacing",
+        "6x"
+      ]
+    },
+    "8x": {
+      "value": 32,
+      "type": "spacing",
+      "rawValue": "$spacing.400",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 32,
+        "type": "spacing",
+        "rawValue": "$spacing.400"
+      },
+      "name": "splt-spacing-8x",
+      "attributes": {
+        "category": "spacing",
+        "type": "8x"
+      },
+      "path": [
+        "spacing",
+        "8x"
+      ]
+    }
+  },
+  "sizing": {
+    "none": {
+      "value": 0,
+      "type": "sizing",
+      "rawValue": "$sizing.0",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 0,
+        "type": "sizing",
+        "rawValue": "$sizing.0"
+      },
+      "name": "splt-sizing-none",
+      "attributes": {
+        "category": "sizing",
+        "type": "none"
+      },
+      "path": [
+        "sizing",
+        "none"
+      ]
+    },
+    "sm": {
+      "value": 4,
+      "type": "sizing",
+      "rawValue": "$sizing.50",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 4,
+        "type": "sizing",
+        "rawValue": "$sizing.50"
+      },
+      "name": "splt-sizing-sm",
+      "attributes": {
+        "category": "sizing",
+        "type": "sm"
+      },
+      "path": [
+        "sizing",
+        "sm"
+      ]
+    },
+    "md": {
+      "value": 8,
+      "type": "sizing",
+      "rawValue": "$sizing.100",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 8,
+        "type": "sizing",
+        "rawValue": "$sizing.100"
+      },
+      "name": "splt-sizing-md",
+      "attributes": {
+        "category": "sizing",
+        "type": "md"
+      },
+      "path": [
+        "sizing",
+        "md"
+      ]
+    },
+    "lg": {
+      "value": 16,
+      "type": "sizing",
+      "rawValue": "$sizing.200",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 16,
+        "type": "sizing",
+        "rawValue": "$sizing.200"
+      },
+      "name": "splt-sizing-lg",
+      "attributes": {
+        "category": "sizing",
+        "type": "lg"
+      },
+      "path": [
+        "sizing",
+        "lg"
+      ]
+    },
+    "xlg": {
+      "value": 24,
+      "type": "sizing",
+      "rawValue": "$sizing.300",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 24,
+        "type": "sizing",
+        "rawValue": "$sizing.300"
+      },
+      "name": "splt-sizing-xlg",
+      "attributes": {
+        "category": "sizing",
+        "type": "xlg"
+      },
+      "path": [
+        "sizing",
+        "xlg"
+      ]
+    },
+    "xxl": {
+      "value": 32,
+      "type": "sizing",
+      "rawValue": "$sizing.400",
+      "filePath": "src/transformed/semantic.json",
+      "isSource": true,
+      "original": {
+        "value": 32,
+        "type": "sizing",
+        "rawValue": "$sizing.400"
+      },
+      "name": "splt-sizing-xxl",
+      "attributes": {
+        "category": "sizing",
+        "type": "xxl"
+      },
+      "path": [
+        "sizing",
+        "xxl"
+      ]
+    }
+  }
+}

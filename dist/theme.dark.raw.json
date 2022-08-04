@@ -2,17 +2,17 @@
   "color": {
     "brand": {
       "primary": {
-        "value": "#78dc56",
+        "value": "#ff8876",
         "type": "color",
         "description": "Brand color",
-        "rawValue": "$color.green.1000",
+        "rawValue": "$color.hibiscus.800",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#78dc56",
+          "value": "#ff8876",
           "type": "color",
           "description": "Brand color",
-          "rawValue": "$color.green.1000"
+          "rawValue": "$color.hibiscus.800"
         },
         "name": "splt-color-brand-primary",
         "attributes": {
@@ -123,13 +123,13 @@
         ]
       },
       "brand": {
-        "value": "#78dc56",
+        "value": "#ff8876",
         "type": "color",
         "rawValue": "$color.brand.primary",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#78dc56",
+          "value": "#ff8876",
           "type": "color",
           "rawValue": "$color.brand.primary"
         },
@@ -346,13 +346,13 @@
         ]
       },
       "strong": {
-        "value": "#78dc56",
+        "value": "#ff8876",
         "type": "color",
         "rawValue": "$color.surface.brand",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#78dc56",
+          "value": "#ff8876",
           "type": "color",
           "rawValue": "$color.surface.brand"
         },
@@ -440,13 +440,13 @@
         ]
       },
       "brand": {
-        "value": "#78dc56",
+        "value": "#ff8876",
         "type": "color",
         "rawValue": "$color.brand.primary",
         "filePath": "src/transformed/theme-dark.json",
         "isSource": true,
         "original": {
-          "value": "#78dc56",
+          "value": "#ff8876",
           "type": "color",
           "rawValue": "$color.brand.primary"
         },

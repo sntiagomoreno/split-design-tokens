@@ -1,6 +1,6 @@
 /**
  * Do not edit directly
- * Generated on Wed, 27 Jul 2022 20:56:26 GMT
+ * Generated on Thu, 04 Aug 2022 01:31:26 GMT
  */
 
 export const colorNeutral100 : string;

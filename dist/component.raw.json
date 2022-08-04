@@ -3,12 +3,12 @@
     "cta": {
       "primary": {
         "background-color": {
-          "value": "#78dc56",
+          "value": "#ff8876",
           "type": "color",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
-            "value": "#78dc56",
+            "value": "#ff8876",
             "type": "color"
           },
           "name": "splt-button-cta-primary-background-color",
@@ -143,12 +143,12 @@
           ]
         },
         "text-color": {
-          "value": "#78dc56",
+          "value": "#ff8876",
           "type": "color",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
-            "value": "#78dc56",
+            "value": "#ff8876",
             "type": "color"
           },
           "name": "splt-button-cta-secondary-text-color",
@@ -166,12 +166,12 @@
           ]
         },
         "icon-color": {
-          "value": "#78dc56",
+          "value": "#ff8876",
           "type": "color",
           "filePath": "src/transformed/component.json",
           "isSource": true,
           "original": {
-            "value": "#78dc56",
+            "value": "#ff8876",
             "type": "color"
           },
           "name": "splt-button-cta-secondary-icon-color",

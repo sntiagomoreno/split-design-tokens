@@ -1,14 +1,14 @@
 {
   "color": {
     "brand": {
-      "primary": "#78dc56"
+      "primary": "#ff8876"
     },
     "surface": {
       "primary": "#1f1f1f",
       "secondary": "#292929",
       "tertiary": "#3b3b3b",
       "bold": "#898989",
-      "brand": "#78dc56",
+      "brand": "#ff8876",
       "inverted": "#ffffff",
       "negative": {
         "default": "#ed5352",
@@ -23,13 +23,13 @@
       "primary": "#ffffff",
       "secondary": "#b8b8b8",
       "link": "#ff9f8f",
-      "strong": "#78dc56",
+      "strong": "#ff8876",
       "on-brand": "#461d17",
       "placeholder": "#727272"
     },
     "icon": {
       "default": "#ffffff",
-      "brand": "#78dc56",
+      "brand": "#ff8876",
       "secondary": "#461d17",
       "tertiary": "#b8b8b8"
     },

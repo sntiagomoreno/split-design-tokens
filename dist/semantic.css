@@ -1,0 +1,24 @@
+/**
+ * Do not edit directly
+ * Generated on Thu, 04 Aug 2022 01:31:26 GMT
+ */
+
+:root {
+  --splt-sizing-xxl: 32;
+  --splt-sizing-xlg: 24;
+  --splt-sizing-lg: 16;
+  --splt-sizing-md: 8;
+  --splt-sizing-sm: 4;
+  --splt-sizing-none: 0;
+  --splt-spacing-8x: 32;
+  --splt-spacing-6x: 24;
+  --splt-spacing-5x: 20;
+  --splt-spacing-4x: 16;
+  --splt-spacing-3x: 12;
+  --splt-spacing-2x: 8;
+  --splt-spacing-1x: 4;
+  --splt-spacing-0-5x: 2;
+  --splt-spacing-none: 0;
+  --splt-opacity-state-pressed: 0.75;
+  --splt-opacity-state-disabled: 0.25;
+}

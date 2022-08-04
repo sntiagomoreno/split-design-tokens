@@ -2,7 +2,7 @@
   "button": {
     "cta": {
       "primary": {
-        "background-color": "#78dc56",
+        "background-color": "#ff8876",
         "text-color": "#461d17",
         "icon-color": "#461d17",
         "text-line-height": 20,
@@ -10,8 +10,8 @@
       },
       "secondary": {
         "background-color": "#292929",
-        "text-color": "#78dc56",
-        "icon-color": "#78dc56"
+        "text-color": "#ff8876",
+        "icon-color": "#ff8876"
       },
       "tertiary": {
         "background-color": "#292929",
